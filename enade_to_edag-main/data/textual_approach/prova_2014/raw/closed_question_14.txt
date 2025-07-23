@@ -1,0 +1,147 @@
+questão 14
+o transporte de um fluido entre dois pontos no interior
+de um tubo ocorre simultaneamente, com perda de
+energia, devido ao atrito do fluido com a parede e ao
+escoamento turbulento. portanto, quanto maior for
+a rugosidade da parede da tubulação ou mais viscoso
+for o fluido, maior será a perda de energia. a forma
+de determinação do fator de atrito foi estabelecida
+em 1939, por intermédio da equação de colebrook-
+white, apresentada a seguir.
+
+= —2logy (
+f éofatordeatrito de darcy-weisbach (adimensional);
+
+ 
+
+ho, 25
+3.7d ref
+
+vf
+
+em que
+
+k é a rugosidade equivalente da parede do tubo (m);
+d é o diâmetro interno do tubo (m);
+r, é o número de reynolds (adimensional).
+
+a resolução dessa equação requer um processo
+iterativo, pois a função é implícita em relação ao fator
+de atrito (presente nos dois membros da equação).
+em 1939, a resolução de equações por procedimentos
+iterativos demandava excesso de tempo, mas,
+com o desenvolvimento dos conhecimentos de
+computação, esse problema foi solucionado.
+
+as etapas de um algoritmo que soluciona a equação,
+sem ordenação lógica, assim como seu fluxograma
+são apresentados a seguir.
+
+ajd=1
+b) f,= 0,03
+c) início
+
+d) cálculo de f, através da equação de colebrook-
+white
+
+e) | 7, <0,00001
+f) término
+
+g) r,= 10000
+
+h) k = 0,0001
+
+d h=h
+
+j) visualização do resultado
+
+enade 2014
+
+exame nacional de desempenho dos estudantes
+
+ 
+
+com base nessas informações, verifica-se que a
+solução da equação é obtida pela seguinte associação
+das etapas do algoritmo com o fluxograma
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15
+engenharia de computação
+
+ 
+
+ 
+
+ 
+
+ 
+
+1/2/3]4/5/6|7/8/9]10
+o
+c/ibilhig/a/di[e|[j i f
+1/2/3]4/5/6|7/8/9]10
+o
+cihia|g|/bi|id[ellj/fii
+1/2/3]4/5/6|7/8/9]10
+o
+cig/ial[hi/b/d/j/ ei f
+1/2/3]4/5/6|7/8/9]10
+o
+cialb/h/g|d|[j/ejfii
+1/2/3/4/5/6/7/8/9/10
+g
+cibig/h/a/di e) i f
+od
+* r1 4 2 014 15 *
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

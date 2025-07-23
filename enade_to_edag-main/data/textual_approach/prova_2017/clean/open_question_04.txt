@@ -1,0 +1,48 @@
+questão discursiva04
+o monitoramento ambiental é um processo de coleta de dados, estudo e acompanhamento
+contínuo e sistemático das variáveis ambientais. no contexto da realização de um monitoramento
+ambiental, é projetado um coletor das seguintes variáveis climáticas: radiação solar, temperatura
+do ambiente, pressão atmosférica e umidade. esse coletor utiliza um microcontrolador de
+32 bits provido de um módulo de comunicação rs-232, um de comunicação i2c, um de
+conversão analógico-digital de 12 bits, dois temporizadores, um controlador de interrupção e
+uma memória estática de 8 kbytes. as informações das variáveis ambientais devem ser registradas
+pelo coletor em intervalos de 30 min e cada dado deve ser armazenado, em resolução de 16 bits,
+pelo período de um mês.
+
+para medir a temperatura do ambiente, foi selecionado um termistor do tipo ntc (negative
+temperature coefficient). a figura a seguir apresenta o circuito projetado para realizar a interface
+entre este termistor e o pino de entrada analógica do microcontrolador, de forma que a resistência
+variável r do termistor seja convertida em tensão compatível com a faixa de tensão de trabalho
+[0, vref] do conversor analógico-digital do microcontrolador.
+
+vref
+
+/10k
+vo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+termistor
+
+ 
+
+com base nesse projeto, faça o que se pede nos itens a seguir.
+
+a) cite duas características que devem ser consideradas na escolha do microcontrolador. (valor:2,0 pontos)
+
+b) obtenha uma equação que relacione a resistência variável r do termistor com o valor digital "x"
+gerado pelo conversor analógico-digital. (valor:4,0 pontos)
+
+ 
+
+c) calcule o tamanho dos dados a serem preservados, em kbits, e, com base nesse valor, indique
+qual o tamanho mínimo de memória que deve ser utilizado para armazenar os dados.
+(valor:4,0 pontos)

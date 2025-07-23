@@ -1,0 +1,34 @@
+questão 20
+Computação em nuvem representa um conceito relativo ao compartilhamento de recursos, tais como 
+capacidade de processamento, armazenamento, comunicação de dados e pessoal qualificado para 
+manter sistemas computacionais disponíveis na internet. Quando esse compartilhamento constitui 
+um serviço disponível para qualquer pessoa, o serviço é conhecido como nuvem pública. Quando as 
+mesmas tecnologias são empregadas para uma única empresa, não permitindo que terceiros utilizem 
+parte dos recursos, temos uma nuvem privada.
+
+Considerando as vantagens que o gerente de uma empresa espera obter na contratação de um serviço 
+de nuvem pública, avalie as afirmações a seguir.
+
+I. Um serviço de nuvem pública proporciona a redução de custos operacionais, pois é possível 
+dimensionar a necessidade desses recursos com base na demanda, visto que há momentos em 
+que a empresa precisa de mais recursos e há momentos em que ela precisa de menos recursos.
+
+II. Um serviço de nuvem pública gera aumento da velocidade de execução do software e de acesso 
+ao software a partir de qualquer localidade, pois a nuvem pública garante acesso rápido em 
+qualquer parte do mundo, o que contrasta com um servidor localizado na cidade da empresa.
+
+III. Um serviço de nuvem pública viabiliza a redução do investimento inicial com equipamentos, com 
+infraestrutura e com pessoal para iniciar a operação, visto que torna possível adiar a instalação 
+desses recursos na empresa até que a operação se demonstre economicamente viável.
+
+IV. Um serviço de nuvem pública propicia aumento de segurança da informação, pois as rotinas de 
+segurança são responsabilidade do administrador da nuvem pública, não do contratante, o que 
+contrasta com um servidor localizado dentro da empresa.
+
+É correto apenas o que se afirma em
+
+A I e II.
+B I e III.
+C II e IV.
+D I, III e IV.
+E II, III e IV.

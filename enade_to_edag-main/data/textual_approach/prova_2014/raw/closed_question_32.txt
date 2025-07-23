@@ -1,0 +1,24 @@
+questão 32
+suponha que, para armazenar exatamente 999 999
+chaves de um índice, um engenheiro de computação
+tenha escolhido a estrutura de uma árvore b, de
+grau mínimo 5, com todos os nós completos. nessa
+situação, a profundidade dessa árvore é igual a
+
+q a.
+os.
+o 6.
+o 7.
+eos.
+
+área livre
+
+ 
+
+ 
+
+ 
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

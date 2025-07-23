@@ -1,0 +1,37 @@
+questão 33
+a política de segurança e as ferramentas para sua implementação em um banco de dados é, atualmente,
+um assunto de grande importância para toda organização que faz uso de sistemas computacionais no
+seu dia a dia. não somente a vulnerabilidade a ataques de hackers ou usuários não autorizados, mas
+também o controle sobre o acesso restrito a determinadas informações são uma constante preocupação
+dos responsáveis por garantir a segurança e a confidencialidade das informações em um banco de dados.
+
+nesse contexto, avalie as afirmações a seguir.
+il. os comandos grant, deny e revoke são responsáveis por definir as permissões de acesso
+dos usuários e grupos aos diversos elementos do esquema de um banco de dados.
+
+il. caso o usuário useraa, integrante do grupo group1, receba a permissão grant select em uma
+tabela tbldados, e o group1 receba uma permissão deny select na mesma tabela tbldados, o
+usuário usera conseguirá realizar consultas nessa tabela.
+
+ill. é vedado a um usuário, tendo recebido determinado grupo de permissões em uma tabela, transmitir
+
+esses privilégios para outros usuários.
+
+é correto o que se afirma em
+
+o | apenas.
+o il, apenas.
+o lelll, apenas.
+o lei, apenas.
+
+ 
+
+o liell.
+área livre
+32 engenharia de computação
+
+2017
+enade a
+
+exame nacional de desempenho
+dos estudantes

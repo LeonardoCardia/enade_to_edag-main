@@ -1,0 +1,27 @@
+questão34
+Cada roteador em redes de computadores precisa implementar alguma estratégia de enfileiramento 
+para controlar como os pacotes são armazenados em buffer enquanto esperam para serem transmitidos, 
+independentemente do mecanismo de alocação de recursos. O algoritmo de enfileiramento aloca 
+tanto largura de banda, ao transmitir pacotes, quanto espaço de buffer, ao decidir quais pacotes  
+são descartados.
+PETERSON, L. L.; DAVIE, B. S. Redes de Computadores: uma abordagem de sistemas.  
+Rio de Janeiro: Elsevier,2013 (adaptado).
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I. O algoritmo FIFO (First-In, First-Out) é adequado para situações em que o tráfego de dados com 
+rajadas de longa duração provoca descarte de pacotes.
+II. O algoritmo de enfileiramento justo ponderado (WFQ, do inglês Weighted Fair Queuing) permite 
+definir um peso para cada fila, definindo quantos bits são transmitidos sempre que o roteador 
+atender a uma determinada fila.
+III. O algoritmo de enfileiramento por prioridade (PQ, do inglês Priority Queuing) evita que uma fila 
+de menor prioridade fique indefinidamente sem ser atendida (starvation), utilizando o algoritmo 
+Round-Robin para servir a todas as filas.
+IV. Os roteadores que implementam o algoritmo de detecção antecipada aleatória (RED, do inglês 
+Random Early Detection) mantêm a média acumulada do tamanho de suas filas e, quando 
+esse tamanho ultrapassa, em algum enlace, um determinado limiar, uma fração dos pacotes é 
+descartada aleatoriamente.
+É correto apenas o que se afirma em
+A I e III.
+B I e IV.
+C II e IV.
+D I, II e III.
+E II, III e IV.

@@ -1,0 +1,119 @@
+questão 26
+após o treinamento, uma rede neural perceptron com 2 sinais de entrada e um neurônio de saída será capaz
+de classificar quatro indivíduos (1, | |,) em duas classes, conforme o quadro a seguir.
+
+ 
+
+2” ly,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+professor dentista
+l x
+l, x
+l, x
+, x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o primeiro passo é codificar as informações em base binária. os sinais devem ser representados da seguinte forma:
+
+ 
+
+ 
+
+ 
+
+entrada: saída:
+1, =00 professor = o
+l=01 dentista = 1
+1,=10
+1,=11
+
+ 
+
+ 
+
+ 
+
+considerando aprendizado supervisionado (com uso do algoritmo de correção de erros), verifique se cada
+indivíduo é professor (0) ou dentista (1). considere uma taxa de aprendizagem igual a 1, pesos iniciais iguais
+a zero para cada entrada e a seguinte função de ativação: se x > 0, então f(x) = 1, caso contrário f(x) = o.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o quadro a seguir apresenta a entrada dos dados, a saída calculada pela rna e a saída esperada.
+indivíduo | entrada | saída calculada pela rna | saída esperada | w (peso)
+[0,0]
+i, 11 0:f(0)=0 1 ?
+i 01 1: f(1)=1 0 ?
+l, 10 1:f(1)=1 1 ?
+, 00 0:f(0)=0 0 ?
+i, 11 1:f(1)=1 1 ?
+i 01 0:f(0)=0 0 ?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+com base nas informações apresentadas, conclui-se que a atualização dos pesos a cada nova entrada, no
+treinamento dessa rede neural, é igual a
+
+o [2,1], [1,0], [1,0], [1,0], [1,0], [1,0].
+
+o [7,1], [1,0], [0,0], [0,0], [1,0], [1,0].
+
+o [7,0], [1,1], [1,1], [1,1], [0,0], [1,0].
+
+o [7,1], [1,0], [2,0], [0,0], [0,0], [1,0].
+
+o [7,1], [1,0], [2,0], [0,0], [0,0], [0,0].
+
+23
+engenharia de computação am
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

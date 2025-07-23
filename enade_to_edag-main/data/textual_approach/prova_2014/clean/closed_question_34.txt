@@ -1,0 +1,59 @@
+questão34
+suponha que um banco de investimentos possua um sistema que controla, para cada cliente, os tipos de
+investimentos que eles mesmos realizam ao longo do tempo. cada cliente pode ter apenas uma aplicação de
+cada tipo de investimento oferecido pelo banco.
+
+considere as tabelas cliente, tipolnvestimento e investimento pertencentes a um modelo relacional do
+sistema citado (as chaves primárias estão sublinhadas).
+
+cliente (codcliente, nomecliente, endercliente, cidadecliente, anoingressocliente)
+tipoinvestimento (codinvestimento, descricaoinvestimento, taxaremuneracao)
+
+investimento (codcliente, codinvestimento, valor, datadeposito)
+
+a partir do modelo relacional apresentado, avalie as afirmações a seguir.
+|. o comando sql que lista todos os pares de clientes que residem na mesma cidade é:
+
+select cl.nomecliente, c2.nomecliente
+
+from cliente cl, cliente c2
+
+where cl.cidadecliente = c2.cidadecliente
+and cl.codcliente < c2.codcliente;
+
+il. o comando sql que retorna, para cada cidade, os clientes mais antigos é:
+
+select codcliente, nomecliente, cidadecliente, anoingressocliente
+from cliente
+
+where anoingressocliente in (select min (anoingressocliente)
+
+from cliente
+
+group by cidadecliente);
+
+ill. o comando sql que retorna, para cada cidade (de um cliente), o ano de ingresso mais antigo, porém
+apenas para as cidades com mais de um cliente, é:
+
+select cidadecliente, min (anoingressocliente)
+from cliente
+
+group by cidadecliente
+
+having count (*) >1;
+
+iv. o comando sql que retorna o maior valor de cada investimento de cada cliente é:
+
+select codcliente, max (valor)
+
+from cliente c, investimento i
+where c.codcliente = i.codcliente
+group by codcliente 
+
+é correto apenas o que se afirma em
+
+q |.
+o1.
+o lei.
+o lelv.
+o ileiv.

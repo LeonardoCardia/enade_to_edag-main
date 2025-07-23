@@ -1,0 +1,104 @@
+questão discursiva 03
+os autômatos celulares são sistemas dinâmicos discretos no espaço e no tempo que operam em uma
+rede regular finita ou infinita e são caracterizados por interações locais. cada elemento, denominado
+célula, está associado a um dado estado em um conjunto discreto e é atualizado com base nos estados
+anteriores de suas células vizinhas imediatas, de acordo com um conjunto de regras locais. os autômatos
+celulares geram um grande interesse na área de engenharia de computação desde o início dos anos 1960,
+quando foi criado o jogo da vida, e agora são amplamente estudados para modelagem e simulação de
+processos espaço-temporais reais em uma ampla variedade de domínios de aplicação.
+
+slimi, r. et al. a cellular automata model for chagas disease. applied mathematical modelling,
+amsterdã, v. 33, p. 1072-1085, 2009 (adaptado).
+
+as regras do jogo da vida são:
+e qualquer célula viva com menos de dois vizinhos vivos morre de solidão;
+e qualquer célula viva com mais de três vizinhos vivos morre de superpopulação;
+e qualquer célula viva com dois ou três vizinhos vivos continua no mesmo estado para a próxima geração;
+e qualquer célula morta com três vizinhos vivos torna-se uma célula viva.
+nesse contexto, escreva uma rotina em c (ansi) em que se utilizem as regras acima descritas para definir
+o estado atual de uma célula com base no seu estado anterior e no de suas vizinhas.
+ao elaborar sua resposta, considere que:
+
+e as células são entradas de uma matriz;
+
+e os casos não cobertos pelas regras significam permanência no mesmo estado;
+
+e a rotina deve ter como parâmetros a matriz m, definida como “unsign ed char **m”,
+e os índices i, j da posição da célula, definidos como inteiros;
+
+e arede é quadriculada, o valor 1 (um) na matriz significa célula viva e o valor o (zero) significa célula morta;
+
+e os vizinhos correspondem às 4 células que compartilham lados e às 4 diagonais da célula de interesse;
+
+e não há necessidade de se preocupar com os limites da matriz.
+
+(valor: 10,0 pontos)
+
+ 
+
+rascunho
+1
+
+ 
+
+ 
+
+2
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10
+
+ 
+
+11
+
+ 
+
+12
+
+ 
+
+13
+
+ 
+
+14
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+engenharia de computação 13
+
+2017
+amena enade
+
+exame nacional de desempenho
+dos estudantes

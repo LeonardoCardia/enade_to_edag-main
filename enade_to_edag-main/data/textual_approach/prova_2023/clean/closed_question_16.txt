@@ -1,0 +1,34 @@
+questão16
+Na programação de sistemas embarcados, algumas posições de memória servem para diferentes 
+propósitos, não apenas para armazenar valores. Em algumas dessas memórias, cada um dos bits possui 
+um significado diferente, sendo necessário manipulá-los individualmente ou em pequenos grupos.  
+Por isso, o conhecimento da álgebra booliana, bem como dos operadores utilizados para realizar operações 
+binárias nas linguagens de programação, é essencial para o desenvolvimento desse tipo de sistema.
+ ALMEIDA, R. M.; MORAES, C. H. V.; SERAPHIM, T. F. P. Programação de Sistemas Embarcados: desenvolvendo 
+ software para microcontroladores em linguagem C. Rio de Janeiro: Elsevier,2016 (adaptado).
+A partir dessas informações, observe o código apresentado a seguir, escrito na linguagem C, que faz uso 
+de operações binárias sobre variáveis inteiras.
+#include <stdio.h> 
+int main() 
+{ 
+ int a, b; 
+ int x, y, z; 
+ scanf("%d %d", &a, &b); 
+ x = a; y = b; z = a + b; 
+ while (a) { 
+ x = x | b; 
+ y = y ^ a; 
+ z = z & (a+b); 
+ a = a >>1;
+ b = b <<1; 
+} 
+ printf ("%d %d %d\n", x, y, z); 
+ return 0; 
+}
+Após a chamada desse programa, caso o usuário entre com os valores 10 e 1, nessa ordem, qual será, 
+exatamente, o valor da saída do programa?
+A 10 10
+B 10 11
+C 11 11 11
+D 15 12 2
+E 15 13 0

@@ -1,0 +1,44 @@
+questão 32
+Suponha que uma empresa de transportes deseje calcular uma rota de Manaus para São Paulo 
+utilizando a estratégia da busca gulosa, técnica de busca local que seleciona a melhor alternativa 
+disponível a cada passo. Observe, a seguir, um grafo de conexão de cidades até o destino final e o 
+quadro com estimativas de distância de São Paulo até as demais cidades do grafo.
+Macapá
+Manaus
+Belém
+Palmas
+Goiânia
+São Paulo
+Cuiabá
+Porto Velho
+Cidade
+Distância
+Manaus
+2 693 Km
+Porto Velho
+2 464 Km
+Macapá
+2 665 Km
+Belém
+2 463 Km
+Palmas
+1 489 Km
+Cuiabá
+1 326 Km
+Goiânia
+809 Km
+São Paulo
+0 Km
+*R08202334*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
+
+Engenharia de Computação
+35
+Com base nessas informações, é correto afirmar que a solução encontrada a partir da utilização do 
+algoritmo será
+A	 Manaus → Macapá → São Paulo
+B	 Manaus → Porto Velho → Cuiabá → Goiânia → São Paulo
+C	 Manaus → Porto Velho → Palmas → Goiânia → São Paulo
+D	 Manaus → Macapá → Belém → Palmas → Goiânia → São Paulo
+E	 Manaus → Macapá → Belém → Palmas → Porto Velho → Cuiabá → Goiânia → São Paulo

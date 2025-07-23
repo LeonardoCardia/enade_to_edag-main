@@ -1,0 +1,18 @@
+questão 35
+O TCP (Transmission Control Protocol) e o UDP (User Datagram Protocol) são opções frequentemente 
+usadas em sistemas distribuídos para realizar transferência de dados entre máquinas, ainda que não 
+sejam os únicos protocolos que funcionam com base no protocolo IP (Internet Protocol).
+Com relação a esses protocolos, avalie as afirmações a seguir.
+I.	 O protocolo TCP é usado para implementar o mecanismo de sockets utilizado em sistemas 
+distribuídos, como mecanismo de troca de mensagens confiável. 
+II.	 O protocolo UDP é mais eficiente do que o protocolo TCP quanto ao tempo de envio de dados 
+entre os nós de um sistema distribuído, pois gera menor overhead.
+III.	O protocolo UDP é uma escolha adequada para fluxos de dados em tempo real, 
+especialmente daqueles dados que admitem perda ou corrupção de parte de seu conteúdo, 
+tais como vídeos ou voz.
+É correto o que se afirma em
+A	 II, apenas.
+B	 III, apenas.
+C	 I e II, apenas.
+D	 I e III, apenas.
+E	 I, II e III.

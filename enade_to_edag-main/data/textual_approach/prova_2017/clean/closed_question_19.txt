@@ -1,0 +1,24 @@
+questão 19
+considere que o gestor do restaurante de uma universidade pretenda implantar um sistema
+de catracas eletrônicas utilizando circuitos combinatórios para o acesso dos clientes à sala de
+alimentação. o funcionamento básico desse sistema é descrito a seguir.
+
+deve haver quatro filas de espera: a, b, c e d;
+
+deve haver sensores que indiquem a presença de clientes nas filas, sendo atribuído o valor 1
+quando houver cliente na fila, e 0 quando a fila estiver vazia;
+
+quando determinada fila estiver vazia, sua catraca deverá ficar travada, e as filas devem estar
+na ordem de prioridade a seguir: a > b > c > d;
+
+no máximo, duas catracas poderão estar abertas em um mesmo instante, respeitando-se a
+ordem de prioridade;
+
+as catracas das filas a, b, c e d devem ser representadas pelas variáveis c1, c2, c3 e c4,
+respectivamente;
+
+o valor de saída 1 deverá indicar que a catraca está aberta, e o valor 0, que a catraca está
+fechada.
+
+nesse contexto, qual circuito combinatório deverá resolver o problema de acesso dos clientes à sala
+de alimentação do restaurante da universidade?

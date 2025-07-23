@@ -1,0 +1,19 @@
+questão 31
+Um sinal em tempo contínuo pode ser processado, a partir de suas amostras, por um sistema que opere 
+em tempo discreto. Para isso, é importante manter a taxa de amostragem do sinal suficientemente alta 
+para permitir a reconstrução do sinal original sem erro ou com um erro dentro de uma dada tolerância.
+ LATHI, B. P. Sinais e Sistemas Lineares, 2. ed., Porto Alegre: Bookman, 2007 (adaptado).
+Nesse contexto, considerando o teorema da amostragem, avalie as asserções a seguir e a relação 
+proposta entre elas.
+I.	 Para que um sinal contínuo seja reconstruído a partir de suas amostras é necessário que ele 
+possua um espectro em frequência limitado e que a frequência de amostragem seja maior do 
+que duas vezes a largura de faixa do sinal.
+PORQUE
+II.	 Na situação proposta, o espectro do sinal amostrado, será limitado em frequência, o que permitirá 
+a reconstrução do sinal original antes da amostragem.
+A respeito dessas asserções, assinale a opção correta.
+A	 As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B	 As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C	 A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D	 A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E	 As asserções I e II são proposições falsas.

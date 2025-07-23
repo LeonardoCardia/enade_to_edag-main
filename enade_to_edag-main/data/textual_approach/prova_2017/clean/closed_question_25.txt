@@ -1,0 +1,35 @@
+questão 25
+um provedor de serviços de segurança de redes e
+sistemas distribuídos enumerou três componentes
+de rede essenciais para a garantia da segurança
+dos dados corporativos: firewall de rede; sistemas
+de prevenção e detecção de intrusão; e gateways
+antivírus.
+
+acerca desses componentes de rede, assinale a
+opção correta.
+
+o os gateways antivírus trabalham no nível da
+camada de rede e verificam o fluxo de dados em
+busca de assinaturas de vírus conhecidas.
+
+o o firewall de rede deve ser configurado para
+detectar transferência de informação através de
+um canal camuflado (covert channel) baseado
+em túneis.
+
+o um firewall de camada de rede (network layer
+firewall) permite uma filtragem mais detalhada
+dos dados que um firewall de camada de
+aplicação (application layer firewall) ao custo
+de um pior desempenho.
+
+o os sistemas de prevenção de intrusão são vistos
+como uma extensão do firewall e são capazes
+de detectar anomalias de tráfego ou conteúdo
+malicioso antes que eles alcancem a rede.
+
+o o sistema de detecção de intrusão é capaz de
+identificar ataques iniciados dentro da rede
+protegida e agir proativamente para neutralizar
+a ameaça.

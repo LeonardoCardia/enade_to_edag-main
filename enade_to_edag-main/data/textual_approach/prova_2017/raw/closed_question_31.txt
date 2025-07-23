@@ -1,0 +1,52 @@
+questão 31
+um dos maiores problemas identificados na área
+de gerenciamento de projetos de software é o fato
+de que muitos desses projetos falham em atender
+ao cronograma, ao orçamento e à qualidade
+do produto. métodos ágeis vêm sendo cada vez
+mais utilizados para evitar esse tipo de problema,
+pois se baseiam em princípios de adaptação e
+comunicação, ao contrário de métodos mais
+antigos, conhecidos como prescritivos, que
+priorizam a definição de processos bem detalhados
+que sejam seguidos por toda a equipe.
+
+considerando esse contexto, avalie as asserções a
+seguir e a relação proposta entre elas.
+
+i. a técnica de timeboxing consiste na fixação
+prévia, pela equipe, dos prazos para
+execução do projeto, independentemente
+do seu ciclo de desenvolvimento.
+
+porque
+
+il. é preferível ter os requisitos mais
+importantes incorporados ao projeto, no
+prazo definido, a tentar incorporar todos
+eles e perder o controle do prazo, visto que
+os requisitos menos importantes podem
+
+ 
+
+área livre ser tratados nas etapas finais do ciclo de
+desenvolvimento do projeto.
+a respeito dessas asserções, assinale a opção
+correta.
+o as asserções le il são proposições verdadeiras,
+e a il é uma justificativa correta da |.
+o as asserções le il são proposições verdadeiras,
+mas a ii não é justificativa correta da |.
+o a asserção | é uma proposição verdadeira, e a il
+é uma proposição falsa.
+o a asserção | é uma proposição falsa, e a il é uma
+proposição verdadeira.
+o as asserções le il são proposições falsas.
+área livre
+30 engenharia de computação
+
+2017
+enade am
+
+exame nacional de desempenho
+dos estudantes

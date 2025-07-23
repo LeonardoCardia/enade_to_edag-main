@@ -1,0 +1,65 @@
+questão 29
+a computação verde refere-se ao uso
+ambientalmente responsável de computadores
+e recursos relacionados. essas práticas incluem a
+implementação da eficiência energética em cpus,
+servidores e periféricos, bem como o consumo
+reduzido de recursos e a destinação adequada de
+lixo eletrônico.
+
+harris, j. g. computing and green it best practices on regulations
+
+and industry initiatives, virtualization, power management,
+
+materials recycling and telecommuting. london:
+
+emereo pty ltd, 2008 (adaptado).
+
+nesse contexto, avalie as asserções a seguir e a
+relação proposta entre elas.
+
+il. embora a virtualização contribua para a
+computação verde, o projeto e a gerência
+de uma arquitetura virtualizada apresentam
+problemas.
+
+porque
+
+il. da virtualização podem decorrer problemas
+de segurança a partir de vulnerabilidades no
+hospedeiro, além de potencialmente haver
+maior desgaste das máquinas servidoras e,
+portanto, maior custo de manutenção.
+
+a respeito dessas asserções, assinale a opção
+correta.
+
+o as asserções le il são proposições verdadeiras,
+ea il é uma justificativa correta da |.
+
+o as asserções le il são proposições verdadeiras,
+mas a ii não é uma justificativa correta da |.
+
+o a asserção | é uma proposição verdadeira, e a il
+é uma proposição falsa.
+
+o a asserção | é uma proposição falsa, e a il é uma
+
+ 
+
+q el. ção
+o ilelv. proposição verdadeira.
+o dn. m o as asserções le il são proposições falsas.
+e ' z
+o ,llell área livre
+o lilelv.
+área livre
+engenharia de computação 29
+
+*r1 32017304
+
+enade”
+
+exame nacional de desempenho
+
+dos estudantes

@@ -1,0 +1,58 @@
+questão 19
+de todas as propostas do marco civil da internet, uma
+das mais polêmicas e importantes é a denominada
+“neutralidade da rede”. o marco civil defende que
+não deve haver “pedágios” na internet, ou seja,
+nenhuma empresa poderá criar barreiras para algum
+tipo de conteúdo com qualquer tipo de interesse
+financeiro.
+
+ 
+
+as empresas dizem que a neutralidade total mata a
+possibilidade de oferecer pacotes mais acessíveis. os
+defensores do projeto, por outro lado, dizem que a
+não aprovação seria uma medida antipopular, que
+criaria mais exclusão social, impedindo que os mais
+pobres usem os serviços mais caros.
+
+disponível em: <http://olhardigital.uol.com.br>. acesso em: 20 jul 2014
+(adaptado).
+
+a partir das informações apreentadas e em relação à
+“neutralidade da rede”, avalie as afirmações a seguir.
+
+il. com a lei da neutralidade da rede brasileira,
+o roteamento interno na rede de uma
+corporação deve tratar todos os protocolos
+ou serviços (como volp e smtp) de modo
+igualitário.
+
+il. a mudança de cenário com a adoção da lei
+da neutralidade da rede é exemplo de como
+as empresas e profissionais de tecnologia
+devem estar continuamente se atualizando e
+estar prontos para readequar seus produtos
+e serviços aos novos requisitos técnicos e
+sociais.
+
+hi. a lei brasileira da neutralidade da rede
+permite que um provedor de acesso à
+internet, notando que seus usuários usam
+mais serviços de mensagens instantâneas
+que de transferências de arquivos, possa
+aumentar a prioridade do primeiro tráfego
+em relação ao do segundo para melhorar a
+satisfação de seus clientes.
+
+é correto o que se afirma em
+
+q il, apenas.
+oq ill, apenas.
+o lell, apenas.
+o lelilapenas.
+o llell.
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

@@ -1,0 +1,36 @@
+questão 04
+TEXTO 1
+ A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender 
+por conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de 
+intervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e 
+textos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar 
+modelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, 
+auxiliar no diagnósti co de doenças.
+ Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-
+como-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).
+ TEXTO 2
+ Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente 
+a maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar 
+importante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão 
+ser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões 
+éti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto 
+entre indivíduos da mesma nação.
+ Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. 
+Acesso em: 2 ago. 2023 (adaptado).
+ Considerando os textos apresentados, é correto afi rmar que a IA generati va
+A  proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações 
+próprias dos seres humanos.
+B  restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu 
+modo de agir no mundo do conhecimento e do trabalho.
+C  promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas 
+ati vidades sejam repeti ti vas e exijam pouco conhecimento.
+D  gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, 
+neles, os processos de criação e inovação já estão bem consolidados.
+E  esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do 
+conhecimento, resolvendo problemas antes delegados apenas a especialistas.
+*R0820236*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
+
+Engenharia de Computação
+7

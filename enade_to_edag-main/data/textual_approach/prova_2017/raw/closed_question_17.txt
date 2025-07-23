@@ -1,0 +1,34 @@
+questão 17
+a importância da otimização no processo
+produtivo é inegável. do ponto de vista
+matemático, para otimizar determinada
+grandeza, é necessário modelá-la de acordo com
+uma função e, a partir daí, conforme a situação,
+procurar um máximo ou um mínimo. uma das
+formas usadas para minimizar funções é o
+
+método dos multiplicadores de lagrange.
+
+um fabricante de latinhas de refrigerante
+deve propor uma lata cilíndrica de volume v,.
+essa lata será fabricada usando-se duas ligas
+metálicas distintas, sendo uma para a parte lateral
+e outra para a base e a tampa. ele deseja calcular
+o raio (1) e a altura (h) da lata para que o custo de
+sua produção seja o menor possível. sabe-se que a
+área total da lata é dada por a(r,h) e que o custo
+total de produção da lata, que depende apenas do
+material utilizado na sua produção, é c(r,h). para
+a solução desse problema, será utilizado o método
+dos multiplicadores de lagrange.
+
+com base nessa situação, avalie as afirmações a
+seguir, acerca da solução desse problema.
+
+il. o custo de produção da lata pode ser
+expresso por c(r,h)=27(krh+ k,º), em
+que k, e k, são constantes que dependem
+do custo de cada uma das ligas metálicas
+por unidade de área.
+
+il. a função a ser minimizada da área total da

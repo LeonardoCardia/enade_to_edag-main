@@ -1,0 +1,35 @@
+questão 23
+As figuras a seguir representam dois circuitos que possuem a finalidade de construção de filtros para 
+sinais analógicos.
+Figura 1
+ Figura 2
+Considerando que os amplificadores operacionais apresentados são ideais, avalie as afirmações a seguir.
+I.	 Existe uma faixa de frequências na qual a impedância de entrada do circuito da Figura 1 é inferior 
+à do circuito da Figura 2.
+II.	 Ambos os circuitos realizam a função de filtro passa-baixa de primeira ordem.
+III.	 A frequência de corte de ambos os filtros é igual.
+É correto o que se afirma em
+A	 I, apenas.
+B	 II, apenas.
+C	 I e III, apenas.
+D	 II e III, apenas.
+E	 I, II e III.
+180pF
+10kW
+vo (t)
+vin (t)
++
+–
+100pF
+1,8kW
+18kW
+vo (t)
+vin (t)
++
+–
+*R08202326*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
+
+Engenharia de Computação
+27

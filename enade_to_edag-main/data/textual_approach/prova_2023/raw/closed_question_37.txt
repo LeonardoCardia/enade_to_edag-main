@@ -1,0 +1,21 @@
+questão 37
+A segurança de sistemas de computação é uma preocupação crescente devido à constante 
+evolução das ameaças e das vulnerabilidades presentes no ambiente digital. Garantir a integridade,  
+a confidencialidade e a disponibilidade de dados e de recursos é essencial para proteger os sistemas 
+e as informações sensíveis. A segurança abrange, também, aspectos como autenticação, controle  
+de acesso, criptografia, detecção e prevenção de intrusões, entre outros mecanismos de proteção.
+A respeito da segurança de sistemas de computação, avalie as afirmações a seguir.
+I.	 A criptografia é um mecanismo que permite detectar a vulnerabilidade dos dados, tornando-os 
+ilegíveis para usuários não autorizados.
+II.	 A auditoria de segurança é o processo de verificação de identidade de um usuário ou de  
+um sistema, garantindo que apenas entidades confiáveis tenham acesso aos recursos.
+III.	 O controle de acesso consiste em definir e em gerenciar as permissões de usuários e de sistemas 
+para acessar recursos e para realizar operações específicas.
+IV.	 A detecção e a prevenção de intrusão são técnicas utilizadas para identificar atividades 
+maliciosas em um sistema e para tomar medidas a fim de evitar a ocorrência dessas atividades.
+É correto apenas o que se afirma em
+A	 I e II.
+B	 I e IV.
+C	 III e IV.
+D	 I, II e III.
+E	 II, III e IV.

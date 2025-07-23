@@ -1,0 +1,71 @@
+questão 10
+denominam-se cargas os elementos de um circuito
+elétrico que se opõem à passagem de corrente
+elétrica. essencialmente, distinguem-se três tipos de
+cargas: resistivas, capacitivas e indutivas. as cargas
+resistivas dissipam energia, enquanto as puramente
+capacitivas ou puramente indutivas são consideradas
+
+ 
+
+armazenadoras de energia.
+($)
+
+t£
+
+1f
+o l3 1h
+
+se o circuito mostrado acima é alimentado por uma
+fonte de tensão contínua de 12 v e as lâmpadas são
+de 12 v/6 w, observa-se que, em regime permanente,
+
+ 
+
+ 
+
+ 
+
+ 
+
+o as três lâmpadas, l1, l2 e l3, ficarão apagadas,
+pois lâmpadas incandescentes só operam com
+corrente alternada.
+
+o somente l2 e l3 ficarão acesas, pois a corrente
+que passa em l2 é a soma das correntes em l3 e
+
+no indutor.
+
+o
+
+as três lâmpadas, l1, l2 e l3, ficarão acesas, pois
+estão ligadas à fonte de alimentação.
+
+o
+
+somente l2 ficará acesa, pois está em série com a
+fonte de alimentação.
+
+o
+
+somente l1 ficará acesa, pois está em série com o
+capacitor.
+
+área livre
+
+ 
+
+ 
+
+ 
+
+4 r14 2014 12 *
+
+12
+
+engenharia de computação
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

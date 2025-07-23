@@ -1,0 +1,23 @@
+questão 31
+em uma rede local de computadores em barramento,
+um dos métodos de controle de acesso ao meio,
+denominado csma/cd, 
+se uma estação começar a transmitir sozinha
+no meio em determinado instante e permanecer
+sozinha por um intervalo t (conhecido como slot de
+contenção), sem que qualquer outra estação comece
+a transmitir, então não haverá colisão e o acesso ao
+meio estará garantido para essa transmissão.
+
+considere que uma rede tenha n estações com
+transmissões completamente independentes e que
+a probabilidade de uma estação transmitir dentro de
+um intervalo t seja igual a p 
+a probabilidade de a estação não transmitir nesse
+intervalo é 1-p.
+
+a probabilidade de se ter um intervalo t no
+qual apenas uma das estações transmita e ganhe o
+acesso ao meio é igual a
+
+np(1-p)^(n-1)

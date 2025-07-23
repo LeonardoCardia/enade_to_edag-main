@@ -1,0 +1,45 @@
+questão06
+TEXTO1
+ Maria Bárbara tinha o verdadeiro tipo das velhas maranhenses criadas na fazenda. Tratava muito dos 
+avós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um 
+mulato dizia “o cabra”. Maria Bárbara tinha grande admiração pelos portugueses, dedicava-lhes um 
+entusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a filha foi pedida por Manuel 
+Pedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que 
+é branco!”
+AZEVEDO, A. O mulato. São Luís: Typografia o Paiz,1881 (adaptado).
+TEXTO2 
+A morte brinca com balas nos dedos gatilhos dos meninos. Dorvi se lembrou do combinado, 
+o juramento feito em voz uníssona, gritado sob o pipocar dos tiros:
+— A gente combinamos de não morrer!
+Balas enfeitam o coração da noite. Não gosto de filmes da tevê. Morre e mata de mentira. Aqui, não. 
+Às vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é 
+uma fumaça adocicada enchendo o pulmão da gente. 
+EVARISTO, C. Olhos d´água. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional,2016 (adaptado).
+TEXTO3
+DEL NUNES. O Cria. Disponível em: https://www.instagram.com/p/CgCSOKegX4J/. Acesso em:13 jun.2023.
+O Cria é uma releitura da pintura “O Mestiço” de Cândido Portinari. Em sua obra, Del Nunes personifica 
+a identidade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de 
+Salvador, o artista transmite em suas produções a essência da cultura preta, cria e recria momentos do 
+povo negro apagados pela história, divulgando-as nas redes sociais.
+
+Engenharia de Computação
+9
+A partir das informações apresentadas e tendo em vista a possibilidade das várias manifestações 
+culturais estabelecerem relação com a construção da memória e a definição da identidade cultural de 
+um povo, avalie as afirmações a seguir.
+I. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignificação artística proposta no texto 3 
+resgatam uma reflexão acerca da condição histórica da maioria da população brasileira.
+II. Ao longo do processo histórico de constituição da identidade do povo brasileiro, o convívio 
+cooperativo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às 
+diferenças étnicas e religiosas.
+III. A produção de conteúdo artístico que proponha a reflexão sobre a condição social da população 
+negra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente 
+promovido pelo processo de colonização.
+IV. A arte expressa no texto 3, ao imitar uma obra clássica de Portinari, apresenta limitação na promoção 
+do empoderamento da população afrodescendente, provocando um acirramento cultural.
+É correto apenas o que se afirma em
+A II.
+B IV.
+C I e III.
+D I e IV.
+E II e III.

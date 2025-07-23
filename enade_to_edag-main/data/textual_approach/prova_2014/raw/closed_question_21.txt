@@ -1,0 +1,54 @@
+questão 21
+a compressão de dados pode ser realizada por
+intermédio de diversos algoritmos de compressão,
+reduzindo a quantidade de bits para representar
+um conjunto de dados. a compressão de imagem
+é a forma de armazenar informações visuais
+mais compactamente. a maioria desses métodos
+considera a identificação e o uso de estruturas e
+redundâncias que existem nos dados da imagem. os
+tipos de redundância encontrados nas imagens são
+ligados à codificação de tons ou cor, redundância da
+informação inter-pixel, espectral e psicovisual.
+
+ 
+
+conci, a.; azevedo, e.; leta, f. r. computação gráfica: teoria e
+prática. v. 2, rio de janeiro: elsevier, 2008 (adaptado).
+
+nesse contexto, avalie as afirmações a seguir.
+
+|. a redundância de codificação de tons ou cor
+ocorre quando os níveis de cinza ou as cores
+de uma imagem são codificados com mais
+símbolos de codificação que o necessário.
+a redundância inter-pixel (redundâncias
+espaciais) são as resultantes das relações
+geométricas ou estruturais entre os objetos
+na imagem.
+
+a redundância espectral é a que ocorre em
+imagens com mais de uma faixa espectral,
+quando os valores espectrais para a mesma
+posição na matriz de pixels de cada banda são
+correlacionados. nesse caso, apenas um canal
+precisa ser armazenado com mais detalhes.
+
+as redundâncias psicovisuais ou baseadas na
+percepção são aquelas relacionadas ao fato
+de o sistema visual humano responder com a
+mesma sensibilidade a todas as informações
+visuais. tais informações não podem ser
+eliminadas sem prejudicar significativamente
+a qualidade da imagem.
+
+é correto o que se afirma em
+
+o | apenas.
+
+o ill, apenas.
+
+o lell, apenas.
+o le ll, apenas.
+
+o llell.

@@ -1,0 +1,24 @@
+questão 20
+Um compilador transforma uma linguagem,
+em geral textual, em outra linguagem. Um dos
+tipos de linguagens que um compilador pode
+transformar são as linguagens regulares, que
+podem ser descritas utilizando-se expressões
+regulares compostas por símbolos isolados
+agrupados com operadores * e U e organizadas
+com auxílio de parênteses.
+
+Nesse contexto, avalie as afirmações a seguir.
+I. A palavra 10010100 pertence à linguagem
+representada por (100*)*.
+II. A palavra 10010 pertence à linguagem
+representada por (1(10)*0)*.
+III. Existe somente uma expressão regular para
+representar uma linguagem regular.
+
+É correto o que se afirma em 
+o I, apenas.
+o II, apenas.
+o I e II, apenas.
+o I e III, apenas.
+o I e II.

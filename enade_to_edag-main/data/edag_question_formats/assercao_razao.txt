@@ -1,0 +1,24 @@
+ENUNCIADO:
+<Texto auxiliar introdutório para a questão trazendo contexto através de uma aplicação da vida real. Se houver anexo gráfico fornecido pelo usuário, uma imagem será automaticamente colocada abaixo e você deve fazer referência ao conteúdo dela nesse texto auxiliar>
+
+Nesse contexto, avalie as asserções a seguir e a relação proposta entre elas:
+
+I. <Primeira asserção verdadeira ou falsa e que seja (ou não) justificada pela segunda asserção>
+
+**PORQUE**
+
+II. <Segunda asserção verdadeira ou falsa e que seja (ou não) explicação da primeira asserção>
+
+À respeito dessas asserções, assinale a opção correta:
+
+(A) As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+(B) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+(C) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+(D) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+(E) As asserções I e II são proposições falsas.
+
+JUSTIFICATIVA:
+I. <Declaração se a asserção I é verdadeira ou falsa seguida de uma explicação>
+II. <Declaração se a asserção II é verdadeira ou falsa seguida de uma explicação>
+
+<Explicação do porquê a segunda asserção é uma explicação (ou não) da primeira asserção>

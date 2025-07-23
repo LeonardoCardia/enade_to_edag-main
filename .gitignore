@@ -1,0 +1,14 @@
+# Ignora ambiente virtual
+/Scripts/
+/Lib/
+/Include/
+/etc/
+/share/
+/pyenv
+
+# Outros arquivos desnecessários
+*.pyc
+__pycache__/
+.vscode/
+.DS_Store
+pyvenv.cfg

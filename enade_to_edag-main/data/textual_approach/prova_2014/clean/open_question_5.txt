@@ -1,0 +1,23 @@
+questão discursiva5
+
+um processo monitora três parâmetros para controle de qualidade: a, b, c. cada parâmetro possui um
+valor na decisão final da qualidade. a existência do parâmetro a pesa 30% na decisão final, enquanto os
+parâmetros b e c pesam 30% e 40%, respectivamente. o grau de aprovação do processo é dado pela soma
+dos percentuais desses três parâmetros. o produto gerado pelo processo é considerado aprovado, caso o
+grau de qualidade seja superior ou igual a 60%, e reprovado, se o grau de qualidade for inferior ou igual a
+30%. caso o grau de qualidade esteja entre 30% e 60%, a decisão de aprovação ou reprovação é indiferente.
+
+a) monte uma tabela verdade do sistema com a formação abc. 
+
+| a | b | c | Grau de Qualidade | Aprovado |
+| --- | --- | --- | --- | --- |
+| 0  | 0 | 0 | 0 | 0 |
+| 0  | 0 | 1 | 40 | 0 |
+| 0  | 1 | 0 | 30 | 0 |
+| 0  | 1 | 1 | 70 | 1 |
+| 1  | 0 | 0 | 30 | 0 |
+| 1  | 0 | 1 | 70 | 1 |
+| 1  | 1 | 0 | 60 | 1 |
+| 1  | 1 | 1 | 100 | 1 |
+
+b) desenhe o circuito final otimizado utilizando portas lógicas.

@@ -1,0 +1,118 @@
+questão 11
+a dbo (demanda bioquímica de oxigênio) de uma amostra de água é a quantidade de oxigênio necessária
+para oxidar a matéria orgânica por decomposição aeróbia. quando a amostra é guardada por 5 dias em uma
+temperatura de incubação de 20ºc, ela é referida como dbo. .., que é normalmente utilizada como um dos
+parâmetros para verificação da qualidade da água.
+
+o seguinte quadro classifica um curso d'água em função da sua dbo, ,,
+
+ 
+
+5,20"
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+muito limpo até 1
+limpo maior que 1 até 2
+razoável maior que 2 até 4
+ruim maior que 4 até 6
+péssimo maior que 6
+
+ 
+
+a imagem abaixo mostra um trecho de um rio com 5 seções (x, y, z, w e t), em que são coletadas amostras
+de água para a determinação de dbo, , em laboratório.
+
+ponto de
+lançamento de
+esgoto
+
+ponto de
+lançamento de
+esgoto,
+
+   
+   
+
+z
+
+1
+' !
+' 1!
+' 1
+1 !
+' 1!
+1 !
+' 1!
+1 !
+' 1!
+' 1
+1 !
+' 1
+' 1
+'
+
+1
+ponto de
+lançamento de
+imagem sem escala esgoto
+
+ 
+
+ 
+
+ 
+
+ 
+
+o quadro abaixo apresenta os resultados, em diferentes unidades, das amostras colhidas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x 0,4 g/mº
+y 3 850 mg/m?
+zz 2 500 mg/m?
+w 3 000 mg/m?
+t 0,01 kg/mº
+
+ 
+
+considerando que pode ocorrer autodepuração no rio, em qual seção dele a água não pode ser classificada,
+no mínimo, como “razoável”?
+ox
+oy.
+oz.
+om.
+et
+13
+engenharia de computação o
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

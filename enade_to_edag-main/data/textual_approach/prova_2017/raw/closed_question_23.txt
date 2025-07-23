@@ -1,0 +1,53 @@
+questão 23
+os filtros digitais são de grande importância em tratamento de sinais. com códigos relativamente
+pequenos, é possível implementar filtros de ordem bastante elevada, o que em circuitos analógicos
+demandaria uma quantidade considerável de amplificadores operacionais. a seguir, reproduz-se um
+fragmento de código que implementa um filtro digital estruturado.
+inicio
+defina u, y, numérico; //entrada e saída respectivas do sistema
+defina x1, x2, xt, numérico; // variáveis auxiliares
+x1 == 0;
+x2 == 0;
+repita
+leia u;
+y = 2 *x1 + x2;
+xt == x1;
+x1 == - x2;
+x2 == 0.5 * xt - x2 + u;
+escreva y;
+fim-repita
+
+fim
+
+considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.
+
+il. o algoritmo forma um sistema assintoticamente estável, linear, invariante e discreto no tempo.
+porque
+
+il. os polos do sistema formado pelo algoritmo estão no semiplano complexo esquerdo,
+excluindo-se o eixo imaginário.
+
+a respeito dessas asserções, assinale a opção correta.
+
+o as asserções le il são proposições verdadeiras, e a il é uma justificativa correta da |.
+
+o as asserções le il são proposições verdadeiras, mas a il não é uma justificativa correta da |.
+o a asserção | é uma proposição verdadeira, e a il é uma proposição falsa.
+
+o a asserção | é uma proposição falsa, e a il é uma proposição verdadeira.
+
+o asasserções le il são proposições falsas.
+
+área livre
+
+ 
+
+engenharia de computação 25
+
+*r1 320172 6%
+
+enade”
+
+exame nacional de desempenho
+
+dos estudantes

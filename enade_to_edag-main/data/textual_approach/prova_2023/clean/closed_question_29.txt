@@ -1,0 +1,92 @@
+questão 29
+Considere que uma equipe de engenheiros projete um sistema robótico para reciclagem de resíduos 
+sólidos, o qual utiliza visão computacional para separar objetos de plástico e de vidro. Com o objetivo de 
+automatizar o processo de classificação, opta-se pela técnica support vector machine (SVM).
+No método SVM, i é o índice do vetor suporte (1 ≤ i ≤5), w é o coeficiente angular (peso) e b é o 
+coeficiente linear (polarização) da reta de separação. O par ordenado (x, y) é a saída do sistema de 
+Visão Computacional que representa os vetores de características dos supostos materiais, plástico ou 
+vidro, com classificação normalizada em ƒ (i) Î {-1, +1} . A separação linear do material é resultado 
+da diferença entre os pontos P1 = w.x + b e P2 = y, conforme a equação a seguir.
+f i
+w x
+b
+y
+w x
+b
+y
+i
+i
+i
+i
+( )
+,
+,
+= +
++
+−
+≥
+−
++
+−
+<
+
+
+
+
+1
+0
+1
+0
+se 
+se 
+O pseudocódigo apresentado a seguir foi projetado para solucionar o problema de classificação com 
+valores de w e b obtidos a partir de um conjunto de dados de treinamento.
+Início
+ w <-0.4
+ b <-2.7
+ para i de1 até5 faça
+ yr <- w * x[i] + b
+ se yr - y[i] >0 então
+ f[i] <-1
+ senão
+ f[i] <- -1
+ fimse
+ fimpara
+ para i de1 até5 faça
+ se f[i] = -1 então
+ escreva("Plástico")
+ senão
+ escreva("Vidro")
+ fimse
+ fimpara
+Fim
+Observe a seguinte tabela com dados de teste.
+i
+1
+2
+3
+4
+5
+x
+3
+6
+4
+5
+1
+y
+7
+6
+4
+3
+2
+
+Engenharia de Computação
+33
+Considerando essas informações, assinale a opção que apresenta a classificação correta da sequência 
+dos materiais na saída do algoritmo.
+
+A Plástico, Vidro, Vidro, Plástico, Vidro.
+B Plástico, Plástico, Vidro, Vidro, Vidro.
+C Plástico, Vidro, Plástico, Vidro, Vidro.
+D Plástico, Plástico, Plástico, Vidro, Vidro. 
+E Plástico, Vidro, Vidro, Plástico, Plástico.

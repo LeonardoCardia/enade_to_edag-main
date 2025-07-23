@@ -1,0 +1,33 @@
+questão 21
+A fim de melhorar a qualidade de vida de seus cidadãos e de criar eficiência nos serviços e nas 
+operações urbanas, um grupo de vereadores de uma pequena cidade decidiu fazer algumas propostas 
+de lei que, se aprovadas e devidamente implementadas, tendem a aproximar a cidade do conceito de 
+“cidade inteligente” por meio da implementação de novos sistemas de software. O grupo de vereadores, 
+preocupado com acessibilidade, consultou especialistas da área de interação humano-computador 
+(IHC) e levantou informações a respeito de fundamentos de acessibilidade em IHC. Entre eles,  
+estão os seguintes:
+Fundamento 1. Um produto ou serviço é equitativo quando é projetado de modo que possa atender a 
+todos os usuários, independentemente de suas habilidades físicas, sensoriais ou cognitivas.
+Fundamento 2. Um produto ou serviço deve ter informações perceptíveis, o que pode envolver o uso 
+de recursos como, por exemplo, texto alternativo para imagens ou contrastes de cores suficientes para 
+usuários com deficiências visuais ou com daltonismo.
+Considerando esse contexto, avalie as afirmações a seguir.
+I.	 Uma lei que prevê que semáforos devem exibir ícones universais associados a cada uma de suas 
+cores está relacionada ao Fundamento 1.
+II.	 Ainda que esteja relacionado à acessibilidade em IHC, o Fundamento 1 deixa de tratar da 
+inclusão de pessoas cegas.
+III.	 Dado que a cidade possui uma página na web para a obtenção de informações, uma lei 
+que preveja a existência de telas digitais públicas que permitam o acesso às informações 
+disponibilizadas é suficiente para caracterizar a aplicação do Fundamento 2.
+É correto o que se afirma em
+A	 I, apenas.
+B	 II, apenas.
+C	 I e III, apenas.
+D	 II e III, apenas.
+E	 I, II e III.
+*R08202324*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
+
+Engenharia de Computação
+25

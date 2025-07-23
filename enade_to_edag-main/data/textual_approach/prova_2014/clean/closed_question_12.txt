@@ -1,0 +1,46 @@
+questão 12
+Um ambiente termicamente confortável é uma das
+condições que devem ser consideradas em projetos
+de edificações. A fim de projetar um ambiente interno
+com temperatura de 20ºC para uma temperatura
+externa média de 35ºC, um engenheiro considerou,
+no dimensionamento, um fluxo de calor através de
+uma parede externa de 10 W/m², conforme ilustra
+a figura abaixo.
+
+Tm = 20ºC
+
+Tou = 35ºC
+
+A tabela a seguir apresenta os valores da condutividade
+térmica para alguns materiais de construção.
+
+Condutividade
+
+Material térmica
+
+A (W/mK)
+Concreto 1,40
+Pedra natural 1,00
+Placa de aglomerado de fibras de madeira 0,20
+Placa de madeira prensada 0,10
+Placa com espuma rígida de poliuretano 0,03
+
+Associação Brasileira de Normas Técnicas. NBR 15220-1:
+Desempenho térmico de edificações - Parte 1: Definições,
+símbolos e unidades. Rio de Janeiro, 2005, p. 8 (adaptado).
+
+A fim de se obter a temperatura interna desejada,
+qual deve ser o material selecionado, entre os
+apresentados na tabela acima, para composição da
+parede externa?
+
+O concreto.
+
+O pedra natural.
+
+O placa de madeira prensada.
+
+O placa com espuma rígida de poliuretano.
+
+O placa de aglomerado de fibras de madeira.

@@ -1,0 +1,46 @@
+questão 24
+acerca do protocolo de transporte tcp (transmission
+control protocol) utilizado na internet, considere o
+esquema abaixo, que mostra a comunicação entre
+dois processos a e b. no diagrama, o tempo cresce
+de cima para baixo e as setas diagonais representam
+segmentos tcp enviados de a para bou de b para a,
+dependendo da orientação da seta. os números de
+sequência dos dados de aplicação enviados de a para
+b estão indicados sobre as setas. o processo a enviou
+segmentos com 40 bytes de dados de aplicação
+para b. o número de sequência do primeiro byte
+enviado através da conexão de a para b foi 20. dos
+quatro segmentos enviados de a para b, o segundo
+segmento foi perdido pela rede e não alcançou o
+destino.
+
+ 
+
+com base na situação descrita acima, o número de
+confirmação (ack) enviado pelo tcp de b para a, no
+instante de tempo to, é igual a
+
+q 20.
+
+o 59.
+
+o 60.
+
+o 100.
+
+e 140.
+
+área livre
+
+ 
+
+ 
+
+engenharia de computação
+
+4 r142 0142 1%
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

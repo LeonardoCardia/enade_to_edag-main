@@ -1,0 +1,16 @@
+questão 26
+Considere um cenário em que um computador seja organizado com múltiplos processadores,  
+os quais compartilham a mesma memória RAM. Cada processador possui múltiplos núcleos.
+Nesse arranjo, o sistema operacional permite múltiplas threads, as quais podem ser dinamicamente 
+alocadas para execução em diferentes núcleos e processadores.
+A partir das informações apresentadas nessa situação, assinale a opção correta.
+A	 Sistemas com múltiplos processadores devem alocar a mesma quantidade de memória RAM para 
+cada processador do arranjo.
+B	 Como há múltiplos processadores, são desnecessários os semáforos, uma vez que não há acessos 
+concorrentes a recursos compartilhados. 
+C	 Como a exclusão mútua não é possível em arquitetura de múltiplos processadores, apenas uma 
+aplicação pode ser executada de cada vez, mas com múltiplas threads.
+D	 Os processos que possuem múltiplas threads em execução são mantidos por meio de funções da 
+biblioteca no código da aplicação e dispensam serviços do sistema operacional.
+E	 Dados trocados durante a comunicação entre processos podem ser armazenados nas áreas de 
+memória compartilhada, mas o acesso a essas áreas é intermediado pelo sistema operacional.

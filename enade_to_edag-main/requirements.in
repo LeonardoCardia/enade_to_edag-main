@@ -1,0 +1,15 @@
+pip-tools
+playwright
+beautifulsoup4
+PyMuPDF
+pandas
+requests
+pytesseract
+pdf2image
+openai
+streamlit>=1.45.0
+#torch==2.5.1+cu121
+#torchvision==0.20.1+cu121
+transformers
+ipdb
+plotly

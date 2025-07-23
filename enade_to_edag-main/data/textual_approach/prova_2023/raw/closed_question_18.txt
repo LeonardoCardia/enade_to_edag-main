@@ -1,0 +1,55 @@
+questão 18
+Vetores de tamanho dinâmico são muito utilizados como estruturas de dados para armazenar listas e 
+tabelas de dispersão (tabelas hash). Essa representação permite que o número máximo de elementos 
+a ser inserido não precise ser pré-determinado. Uma técnica para implementar vetores de tamanho 
+dinâmico é aquela que dobra o tamanho do vetor quando o número de itens a ser armazenado 
+ultrapassa o tamanho atual do vetor. Essa operação requer uma alocação de memória para conter o vetor 
+com o dobro do tamanho atual e a realização de cópia dos elementos para o novo vetor. Com base nessas 
+informações, considere uma lista linear implementada com um vetor dinâmico. Assuma que todos os 
+itens inseridos na lista tenham o mesmo tamanho e que o vetor tenha tamanho inicial para comportar 
+apenas 1 item.
+Considerando uma sequência de n inserções no final dessa lista, o tempo médio por inserção e o tempo 
+total gasto para executar todas as n operações são, respectivamente, da ordem de
+A	  Q
+Q
+(log )
+( log ).
+n
+n
+n
+ e 
+B	  Q
+Q
+( )
+( ).
+1  e 
+n
+C	  Q
+Q
+( )
+(
+).
+1
+2
+ e 
+n
+D	  Q
+Q
+( )
+(
+).
+n
+n
+ e 
+2
+E	  Q
+Q
+(
+)
+(
+).
+/
+n
+n
+ e 
+3 2

@@ -1,0 +1,81 @@
+questão03
+Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a 
+Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de 
+vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se 
+crianças com menos de um ano de idade.
+Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que 
+já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação 
+para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as 
+crianças, como a poliomielite, a meningite, a rubéola e a difteria.
+O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, 
+no período de 2017 a 2021.
+
+Imunizante
+Meta de
+vacinação
+BCG
+Tríplice Viral D1
+Tríplice Viral D2
+Tetraviral (SRC+VZ)
+Poliomielite
+Febre Amarela
+Hepatite A
+Percentual de vacinação 
+em crianças menores de 1 ano
+2017
+2018
+2019
+2020
+2021
+99,72
+97,98
+92,61
+86,24
+76,89
+72,94
+33,26
+35,44
+89,54
+84,24
+59,50
+47,37
+82,69
+78,94
+86,67
+74,03
+65,93
+76,05
+67,13
+55,56
+64,50
+57,20
+75,02
+93,12
+79,57
+70,94
+62,82
+49,62
+20,71
+5,70
+81,55
+34,24
+84,19
+62,41
+85,02
+
+Disponível em: https://portal.fiocruz.br/noticia/vacinacao-infantil-sofre-queda-brusca-no-brasil. 
+Acesso em: 23 de jun. 2023 (adaptado).
+
+Considerando as informações apresentadas no texto e no gráfico, assinale a opção correta.
+A O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte 
+do período de 2017 a 2021.
+B A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo 
+desempenho das políticas públicas de atenção primária em saúde.
+C A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice 
+vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.
+D O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o 
+índice registrado em 2017, revela que as campanhas de conscientização da população foram 
+bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.
+E A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter 
+alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o 
+aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico.

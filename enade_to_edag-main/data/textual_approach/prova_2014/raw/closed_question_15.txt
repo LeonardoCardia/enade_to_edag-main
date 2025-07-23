@@ -1,0 +1,61 @@
+questão 15
+observe o programa classificador (“sort”), em
+pseudocódigo, apresentado abaixo.
+
+e pics
+2 xagiavel texto  nome(5]
+3 xaziavel real nora [5]
+4 xariavel inteiro à, à
+
+s xaxiavel real aux
+
+é variavel cexco  naux
+
+para ij de 1 até 5
+8 escrever "nome ", à, "="
+9 1ex nome (1-1)
+0 escrever "nota ", à"
+àsx nota (4-1)
+proximo
+para i de o até 4
+14 para j de j+1 até 4
+ss notalil<=notali] então
+aux <- notalil
+
+17 nosalil <- nosatál
+18 nosalil <- aux
+
+19 naus <- nome (il
+
+20 nome (il <- nomeli)
+21 nome til <- naux
+22 fimse
+
+23 peoximo
+
+24 proximo
+
+para i de 1 até 5
+escrever nome [1-1], ":
+
+proximo
+
+fim
+
+" nopalá-1], "ar
+
+esse programa classifica, em ordem
+decrescente, notas de alunos e nomes de alunos
+de mesma nota.
+
+alfabética crescente, nomes e notas de alunos de
+mesmo nome.
+
+decrescente, notas de alunos.
+alfabética crescente, nomes de alunos.
+
+voo oo
+
+crescente, notas de alunos.
+
+área livre

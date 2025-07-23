@@ -1,0 +1,33 @@
+questão02
+
+Segundo o relatório da Organização das Nações Unidas para a Alimentação e a Agricultura de 2014,
+a agricultura familiar produz cerca de 80% dos alimentos no mundo e é guardiã de aproximadamente 75%
+de todos os recursos agrícolas do planeta. Nesse sentido, a agricultura familiar é fundamental para a
+melhoria da sustentabilidade ecológica.
+
+Disponível em: <http://www.fao.org>. Acesso em: 29 ago. 2017 (adaptado).
+
+Considerando as informações apresentadas no texto, avalie as afirmações a seguir.
+
+II. Os principais desafios da agricultura familiar estão relacionados à segurança alimentar,
+à sustentabilidade ambiental e à capacidade produtiva.
+
+II. As políticas públicas para o desenvolvimento da agricultura familiar devem fomentar a
+inovação, respeitando o tamanho das propriedades, as tecnologias utilizadas, a integração
+de mercados e as configurações ecológicas.
+
+III. A maioria das propriedades agrícolas no mundo tem caráter familiar, entretanto o trabalho
+realizado nessas propriedades é majoritariamente resultante da contratação de mão de
+obra assalariada.
+
+É correto o que se afirma em:
+
+A) Apenas II.
+
+B) Apenas III.
+
+C) I e II, apenas.
+
+D) I e III, apenas.
+
+E) I, II e III.

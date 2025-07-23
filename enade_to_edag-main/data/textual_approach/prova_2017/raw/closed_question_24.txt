@@ -1,0 +1,48 @@
+questão 24
+heurísticas são regras para escolher aquelas
+alternativas que têm maior probabilidade de
+levar a uma solução aceitável para um problema.
+o grau de informação de uma heurística permite
+avaliar em que sentido uma heurística é melhor
+que outra.
+luger, g. f. inteligência artificial.
+são paulo: pearson, 2013 (adaptado).
+para configurar os movimentos de um robô em
+uma linha de montagem, foram construídas duas
+heurísticas, hi e h2. ambas são admissíveis,
+têm como objetivo encontrar a sequência de
+montagem de menor custo a ser realizada pelo
+robô e estão baseadas em parâmetros, como
+quantidade e complexidade de movimentos e
+custo de mudança de direção.
+
+a partir das informações apresentadas, assinale a
+opção correta.
+
+oq seo erro de estimativa de h1 for menor que o
+erro de h2 para qualquer estado do processo
+de montagem, o custo do caminho resultante
+da busca baseada em hi será menor que o da
+busca baseada em h2.
+
+o se for construída uma heurística h3 = máximo
+(hi, h2), a heurística h3 terá um grau de
+informação maior ou igual a hi e h2, para
+qualquer estado do processo de montagem.
+
+o se o grau de informação de h2 for superior ao
+grau de informação de h1, o número de estados
+expandidos durante o processo de busca,
+utilizando-se h2, será inferior ao número de
+estados expandidos utilizando-se h1.
+
+o se as heurísticas hi e h2 forem consistentes,
+a heurística h3 = hi + h2 será uma heurística
+admissível e consistente para qualquer estado
+do processo de montagem.
+
+o se a heurística h1 possuir um grau de
+informação igual a zero, o algoritmo de busca
+a* irá se comportar como um algoritmo de
+busca guloso (greedysearch), do tipo melhor
+primeiro (best first).

@@ -1,0 +1,94 @@
+questão 25
+Os sistemas digitais são componentes essenciais em uma ampla variedade de aplicações, desde 
+dispositivos eletrônicos portáteis até sistemas de controle industrial. Um dos principais aspectos do 
+projeto desse tipo de sistema é a descrição do circuito em uma Hardware Description Language (HDL), 
+como Verilog ou VHDL. Essas linguagens permitem descrever o comportamento e a estrutura do circuito 
+de forma abstrata, viabilizando a síntese e a simulação do sistema.
+
+Um exemplo de circuito sequencial é o contador de 4 bits assíncrono, mostrado na figura a seguir,  
+o qual foi implementado utilizando flip-flops JK.
+
+count3
+1
+count2
+count1
+count0
+reset
+clk
+CLR
+CLR
+CLR
+CLR
+Clk
+J
+Q
+K
+Q
+Clk
+J
+Q
+K
+Q
+Clk
+J
+Q
+K
+Q
+Clk
+J
+Q
+K
+Q
+
+Nesse contexto, considere que um engenheiro proponha as duas traduções desse circuito em Verilog e 
+VHDL, equivalentes entre si, conforme observado a seguir.
+
+Verilog:
+module contador_4bits (
+ input wire clk,
+ input wire reset,
+ output reg [1:0] count
+);
+ always @(posedge clk or posedge reset) begin
+ if (reset)
+ count <=0;
+ else
+ count <= count +1;
+ end
+endmodule
+
+VHDL:
+library ieee;
+use ieee.std_logic_1164.all;
+entity contador_4bits is
+ port (
+ clk : in std_logic;
+ reset : in std_logic;
+ count : out integer range0 to3
+ );
+end entity contador_4bits;
+architecture behavioral of contador_4bits is
+begin
+ process(clk, reset)
+ variable q : integer range0 to3;
+ begin
+ if reset = '1' then
+ q :=0;
+ elsif rising_edge(clk) then
+ q := q +1;
+ end if;
+ count <= q;
+ end process;
+end architecture behavioral;
+
+Considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.
+I. Qualquer um dos códigos corresponde ao circuito contador de4 bits mostrado na figura.
+PORQUE
+II. Ao atingir o valor máximo da contagem, o valor da saída será zerado no próximo ciclo de clock e 
+o processo será reiniciado.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.

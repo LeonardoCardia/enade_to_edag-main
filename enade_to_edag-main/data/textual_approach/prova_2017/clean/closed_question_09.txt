@@ -1,0 +1,19 @@
+questão09
+
+a figura a seguir representa o diagrama de tensão
+
+o versus deformação e para diferentes materiais
+poliméricos.
+
+garcia, a. et al. ensaios dos materiais.2. ed. rio de janeiro:
+livros técnicos e científicos editora ltda,2012 (adaptado).
+
+assinale a opção que apresenta, respectivamente,
+o módulo de elasticidade e o nível de deformação
+de uma das curvas do diagrama apresentado.
+
+ curva I - alto e grande.
+ curva II - baixo e grande.
+ curva III - baixo e pequeno.
+ curva IV - alto e grande.
+ curva V - baixo e pequeno.

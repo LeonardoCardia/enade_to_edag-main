@@ -1,0 +1,42 @@
+questão 28
+em pesquisa operacional, problemas de
+programação linear (pl) são aqueles para os quais
+a função objetivo e as restrições são todas lineares.
+um importante problema prático modelado com
+plé o problema do transporte.
+
+suponha uma situação em que tenhamos k
+portos, p, p,, ..., p,, que irão suprir j mercados,
+m, m, .... m,, com um certo produto. o porto
+p, possui uma quantidade s, do produto, sendo
+i=1,2,..,k,e o mercado m deve receber pelo
+menos uma quantidade z do produto, sendo
+j=1,2,..., j. considere que b, é o custo de
+transporte de uma unidade do produto do porto p,
+paraomercadom ,ey, é a quantidade de produtos
+despachados do porto p, para o mercado m..
+o problema é suprir as necessidades dos mercados
+com o custo de transporte mínimo.
+
+com base na situação apresentada, avalie as
+afirmações a seguir.
+
+j
+
+k
+il. a expressão a ser minimizada é >> yidy.
+i=1j=1
+
+j
+il. são restrições do problema: 3; <s, para
+j=1
+i=1,2,..,k.
+
+k
+iii. são restrições do problema: >) y, <r, para
+j=l3.,]. o
+
+iv. a quantidade total despachada para o
+mercado m, ék. yy
+
+é correto apenas o que se afirma em

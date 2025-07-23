@@ -1,0 +1,6 @@
+cimatec_docs
+data/keys
+*.ipynb_checkpoints
+*.pdf
+*secrets*
+__pycache__/

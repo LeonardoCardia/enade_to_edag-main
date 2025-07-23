@@ -1,0 +1,58 @@
+questão 05
+Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de 
+monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, 
+perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. 
+As respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.
+Atenta
+Desconfortável
+Livre
+Apertada
+Em alerta
+Observada
+Um pouco mais segura
+Atenta aos assédios
+Nem ﬁco, tenho medo
+Ansiosa
+Péssima
+Cansada
+Insegura
+Não ando
+Insegura
+Desconﬁada
+Passo correndo
+Em pânico
+Ando a pé
+Ando de bicicleta
+Pego o ônibus
+Ando de Metrô
+Ando de trem
+Frequento o 
+espaço público
+ Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, 
+Resultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero 
+e Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).
+ Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das 
+necessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as 
+afi rmações a seguir.
+I.  A predominância de comentários negati vos indica o medo generalizado que as mulheres 
+sentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no 
+espaço urbano.
+II.  Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação 
+nesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco 
+mais seguro para as mulheres, em comparação com outras formas de mobilidade.
+III.  Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem 
+e sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a 
+parti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das 
+mulheres no espaço urbano.
+ É correto o que se afi rma em
+A  I, apenas.
+B  III, apenas.
+C  I e II, apenas.
+D  II e III, apenas.
+E  I, II e III.
+*R0820237*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP
+
+8
+Engenharia de Computação

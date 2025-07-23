@@ -1,0 +1,76 @@
+questão 14
+a medida de profundidade em ambientes aquáticos está relacionada à pressão hidrostática,
+através da relação aproximadamente linear p = f(z), em que z é a profundidade e p é a pressão.
+assuma que a densidade da água do mar ρ = 1,025 x 10³ kg/m³, que não há variação dessa densidade
+com a profundidade e que o valor da aceleração da gravidade g = 9,8 m/s².
+
+nesse contexto, assinale a opção cujo gráfico relaciona adequadamente a profundidade com a
+pressão hidrostática.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4000
+e 3000
+o o
+e e
+s b 2000 
+e 
+o :í o :
+5
+a & 1000
+01
+100 200 300 
+
+ 
+4000
+e 3000
+o o
+e e
+b 2000 
+e2
+5
+o o:
+& 1000
+01
+100 200 300 
+
+
+4000
+e 3000
+o 
+3
+8
+b 2000
+3
+e
+5
+o:
+& 1000
+0 
+100 200 300 
+
+ 
+4000
+e 3000
+o o
+e e
+b 2000 
+e 
+5
+o:
+& 1000
+01
+0 
+100 200 300

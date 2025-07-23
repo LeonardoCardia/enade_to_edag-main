@@ -1,0 +1,63 @@
+questão 20
+os filtros digitais são parte importante do
+processamento digital de sinais, dada a versatilidade
+em sua implementação, que é feita por software.
+esses filtros são classificados em resposta infinita
+ao impulso (iir, ou recursivos) e resposta finita ao
+impulso (fir, ou não recursivos), tendo cada classe
+vantagens e desvantagens bem definidas. um
+exemplo de algoritmo em portugol para um filtro
+digital é apresentado a seguir.
+
+ 
+
+algoritmo
+defina w, x, x, wy numérico
+x,€ 0;
+1,€ 0;
+repita
+leia u;
+ye2 tau;
+1,6%
+teu;
+escreva 1;
+fim-repita
+fim-algoritmo
+
+a partir do algoritmo apresentado, avalie as asserções
+a seguir e a relação proposta entre elas.
+
+1. o filtro digital do algoritmo é do tipo fir.
+
+porque
+il. o filtro digital do algoritmo não possui termo
+de transmissão direta.
+
+a respeito das asserções, assinale a afirmação
+correta.
+
+o as asserções le il são proposições verdadeiras, e
+a il é uma justificativa correta da |.
+
+o as asserções | e il são proposições verdadeiras,
+mas a il não é uma justificativa da |.
+
+o a asserção | é uma proposição verdadeira, e a il é
+uma proposição falsa.
+
+o a asserção | é uma proposição falsa, e a il é uma
+proposição verdadeira.
+
+o as asserções le il são proposições falsas.
+
+ 
+
+engenharia de computação
+
+ 
+
+19 +
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

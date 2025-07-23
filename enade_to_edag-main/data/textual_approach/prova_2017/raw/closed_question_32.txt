@@ -1,0 +1,82 @@
+questão 32
+a unidade de processamento gráfico (gpu, graphics processing unit), originalmente projetada para
+síntese de imagens de alta qualidade, pode ser encontrada embarcada em uma placa de vídeo
+dedicada ou integrada diretamente em uma placa-mãe. entre as suas interfaces de programação de
+aplicativos, destaca-se a api opengl. a versão opengl 4.0 abstrai a arquitetura da gpu como um fluxo
+de renderização que consegue transformar uma especificação dos vértices de objetos de interesse
+dados em um espaço vetorial para uma imagem digital foto-realística, tirando máximo proveito dos
+circuitos dedicados de renderização de primitivas básicas, como pontos, segmentos e triângulos.
+o diagrama a seguir mostra que o fluxo de renderização passa por vários blocos de funções.
+
+especificação e po, , pós
+de vértices vertex shader | tesselation shaderr 1 geometry shader | pcessamento
+
+server secr |
+
+operações montagem
+imagem <— or pixel <——— fragment shader|<—— rasterização pe de
+p primitivas básicas
+
+disponível em: <https://www.khronos.org>. acesso em: 5 jul. 2017 (adaptado).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+com base no diagrama apresentado e no procedimento de renderização de imagens de malhas
+triangulares, é correto afirmar que
+
+o os vértices das facetas triangulares de uma malha precisam ter suas coordenadas projetadas no plano
+da imagem pela aplicação, antes do seu envio para o bloco vertex shader.
+
+o há procedimentos de otimização, como o descarte de facetas não visíveis e o recorte de uma cena
+completa em uma subcena enquadrada pelos parâmetros de câmera, antes da passagem para o bloco
+de rasterização.
+
+o as coordenadas de textura devem ser associadas aos vértices da malha triangular quando se deseja
+texturizá-la, pois essas coordenadas são utilizadas no bloco vertex shader para acesso aos dados de
+textura.
+
+o o modelo de tonalização de phong, que consiste na interpolação dos vetores normais atribuídos aos
+vértices, deve ser programado no bloco vertex shader para se computar a cor da superfície da malha
+renderizada.
+
+o as informações referentes a posições, cores, vetores normais da superfície, coeficientes do material
+da superfície e coordenadas de textura dos vértices são suficientes para geração de uma imagem
+foto-realística.
+
+área livre
+
+ 
+
+engenharia de computação 31
+
+2017
+e enade
+
+exame nacional de desempenho
+dos estudantes

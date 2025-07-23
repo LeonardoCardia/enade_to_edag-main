@@ -1,0 +1,70 @@
+questão 22
+considere o código em c, a seguir, compilado em um sistema computacional de 32 bits, que
+exemplifica o uso do tipo de dados ponteiro.
+
+finclude <stdio.h>
+
+void main(void) f
+int salariol, salario2;
+int *ptr;
+salariol = 6750;
+ptr = &salariol;
+salario2 = *ptr + 1000;
+)
+a partir das informações apresentadas, assinale a opção que apresenta a memória principal e seu
+
+conteúdo, após o programa ser executado.
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+endereço dado | nome da variável endereço dado | nome da variável
+(byte) (byte)
+oxoo7b[ 00 |
+oxooza) 00 |
+oxo7o[ 00 || p! ptr
+0x0078
+0x0077| 00 |
+| 00 |
+q pa de | f salario2 o salario2
+0x0074 j
+oxoor3) 00 |
+0x0072] 00 tl lo.
+0x0071 salario 1 salario1
+0x0070
+endereço dado | nome da variável endereço dado | nome da variável
+(byte) (byte)
+oxoo7b[ 00 | oxoo7b[ 00 |
+oxorap 00 |l oxoo7a) 00 | '
+0x0079 p 0x0079 p
+0x0078 d 0x0078
+0x0077| 00 | 0x0077| 00 |
+| 0 | | 00 |
+o mos | seara o as sata?
+0x0074 0x0074) 60 |
+0x0073) 00 | 0x0073) 00 |
+0x0072 l 0x0072 .
+0x0071 salario 1 0x0071 salario1
+0x0070 0x0070
+endereço, dado | nome da variável
+(byte) 1 1
+ptr
+o salario?
+salario 1
+1 1
+24 engenharia de computação
+
+2017
+enade a
+
+exame nacional de desempenho
+dos estudantes

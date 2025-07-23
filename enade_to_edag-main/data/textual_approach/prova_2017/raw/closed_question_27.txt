@@ -1,0 +1,61 @@
+questão 27
+um sistema monitora o deslocamento de um carro por meio do registro em um banco de dados, de
+segundo em segundo, das medidas de dois acelerômetros: um na direção longitudinal do movimento do
+carro, outro na direção transversal.
+
+o projeto desse sistema é decomposto em três subprojetos. o primeiro, denominado módulo 1,
+formado por hardware e software, é embarcado no carro e dotado de sistema de comunicação com
+a internet por gprs. o segundo, módulo 2, é um projeto de software aplicativo executado em
+plataforma android para tablet, smartphone ou celular, para exibição de relatórios para usuários.
+o terceiro subprojeto, módulo 3, é formado por hardware e software e instalado em um servidor em
+nuvem com conexão dedicada permanente com a internet.
+
+o projeto tem as seguintes especificações:
+
+e o módulo 1 comunica-se com o módulo 3 para enviar as leituras obtidas. como o carro nem
+sempre está em área de cobertura de celular, é possível que uma comunicação possa enviar as
+leituras de até um dia inteiro;
+
+e o módulo 2 comunica-se com o módulo 3 para obter os dados exibidos no relatório;
+
+e os relatórios indicam os valores máximos de velocidade e aceleração e as respectivas posições do
+carro quando eles foram atingidos.
+
+a partir dessas informações, avalie as afirmações a seguir.
+|. o módulo 1 deve ter capacidade de armazenamento de dados suficiente para um dia de leituras,
+a serem enviadas para o módulo 3.
+
+il. todos os subprojetos têm interface de comunicação pela internet e a interface com o usuário é
+feita no módulo 2.
+
+iii. o melhor local para se executar o processamento dos dados para o relatório é o módulo 1, que
+está sempre conectado e tem maior capacidade de processamento.
+
+iv. o melhor local para se instalar o banco de dados para as leituras é o módulo 3, que dispõe de
+maior capacidade de armazenamento e conexão permanente com a internet.
+
+é correto apenas o que se afirma em
+
+ 
+
+q lei.
+
+o ein.
+
+o lelv.
+
+o llelv.
+
+o lllleiv.
+
+área livre
+
+28 engenharia de computação
+
+enade
+
+exame nacional de desempenho
+
+*r132 017209 *
+
+dos estudantes

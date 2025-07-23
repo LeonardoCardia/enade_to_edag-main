@@ -1,0 +1,23 @@
+unsigned char atualiza_celula(unsigned char **m, int i, int j) {
+    int vivos = 0;
+    int x, y;
+
+    // Conta os vizinhos vivos
+    for (x = -1; x <= 1; x++) {
+        for (y = -1; y <= 1; y++) {
+            if (x == 0 && y == 0) continue;
+            vivos += m[i + x][j + y];
+        }
+    }
+
+    // Aplica as regras do Jogo da Vida
+    if (m[i][j] == 1) { // Célula viva
+        if (vivos < 2) return 0; // Morre de solidão
+        if (vivos > 3) return 0; // Morre de superpopulação
+        if (vivos == 2 || vivos == 3) return 1; // Continua viva
+    } else { // Célula morta
+        if (vivos == 3) return 1; // Torna-se viva
+    }
+
+    return m[i][j]; // Permanência no mesmo estado
+}

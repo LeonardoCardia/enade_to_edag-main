@@ -1,0 +1,37 @@
+questão 13
+os veículos espaciais apresentam estrutura externa
+constituída por um conjunto de blocos que
+formam um escudo térmico, cuja função é
+proteger motores e demais componentes de
+possíveis danos causados pelo calor, além de
+reduzir a temperatura interna do veículo.
+
+esses escudos térmicos são construídos com
+material
+
+q metálico, dada sua leveza e elevada resistência
+ao calor.
+
+o polimérico, dada sua baixa resistência ao calor
+e à corrosão.
+
+o cerâmico poroso, dada sua elevada resistência
+mecânica à tração.
+
+o polimérico, em razão de sua alta massa
+específica e de sua resistência ao calor.
+
+o cerâmico poroso, em razão de seu baixo
+
+coeficiente de dilatação térmica e de sua baixa
+condutividade térmica.
+
+ 
+
+18 engenharia de computação
+
+2017
+enade mv
+
+exame nacional de desempenho
+dos estudantes

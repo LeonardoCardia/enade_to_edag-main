@@ -1,0 +1,33 @@
+questão09
+suponha que a distância percorrida por um ciclista
+que pedala regularmente pode ser inferida pela
+variável aleatória x, com densidade de probabilidade
+normal,
+
+f(x) =  $\frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$ 
+com $\mu = 25$km e $\sigma = 5$km. a duração média do
+seu treino é de 1h 15min.
+
+com base nesses dados, avalie as afirmações abaixo.
+
+I. a velocidade média de cada treino é de 
+21,7 km/h.
+
+II. a distância média percorrida em cada treino 
+é de 25 km.
+
+III. a área média percorrida em cada treino é de 
+25 km2.
+
+IV. a distância percorrida de cada treino, em um 
+desvio-padrão, está entre 20 km e 30 km.
+
+V. a velocidade média de cada treino, em um 
+desvio-padrão, está entre 16 km/h e 24 km/h.
+
+é correto apenas o que se afirma em 
+
+I e V.
+II e V.
+II e IV.
+I, II e IV.

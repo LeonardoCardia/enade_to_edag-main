@@ -1,0 +1,34 @@
+questão 30
+Considere que, para melhorar o desempenho de sistemas computacionais, projetistas de hardware 
+decidam aumentar o número de processadores em vez de aumentar a frequência de clock. Dessa forma, 
+surge a necessidade de utilizar softwares que explorem o paralelismo. Um problema típico encontrado 
+no desenvolvimento desse tipo de software é a dependência de dados. Nesse contexto, considere que 
+dois processadores precisem realizar, simultaneamente, o acesso a uma mesma matriz A.
+Com base nas informações apresentadas, com relação aos trechos de código em linguagem C 
+apresentados a seguir, assinale a opção que apresenta uma situação de conflito de dados.
+A	 Processador 1: 
+int a = &A[0][0]; 
+Processador 2: 
+int b = &A[0][0];
+B	 Processador 1: 
+*A[0][0] = 10; 
+Processador 2: 
+*A[0][1] = 20;
+C	 Processador 1: 
+*A[0][0] = 10; 
+Processador 2: 
+int b = &A[0][0];
+D	 Processador 1: 
+int a = &A[0][0]; 
+Processador 2: 
+*A[0][0] = 20;
+E	 Processador 1: 
+*A[0][0] = 10; 
+Processador 2: 
+*A[0][0] = 20;
+*R08202333*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP
+
+34
+Engenharia de Computação

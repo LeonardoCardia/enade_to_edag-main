@@ -1,0 +1,52 @@
+questão 35
+o código a seguir mostra um programa escrito na linguagem de programação java.
+
+ 
+
+public class java (
+private static void trocab(string a, string b )(
+string tmp = a;
+a = b;
+b = tmp;
+
+private static void trocac(int arrayl[], string a)(
+for(int x = 0; x < array.length; x++) (
+array[x] = array[x] * integer.value0of (a);
+
+public static void main(stringl[] args) (
+int array[] = (1,2, 3, 4, 5);
+string a = “2”, db = “5”;
+trocab(a, db);
+trocac(array, a);
+system.out.print(a +“ “+ db+ vn;
+for(int x = 0; x < array.length; x++) (
+
+system.out.print(array[x] + “wn;
+
+)
+
+após ser executado o código, o valor impresso na saída padrão do usuário será
+q 52510152025.
+
+o 25246810.
+
+o 52246810.
+
+05212345.
+
+o 2512345.
+
+área livre
+
+ 
+
+ 
+
+9 &
+
+29
+engenharia de computação a
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

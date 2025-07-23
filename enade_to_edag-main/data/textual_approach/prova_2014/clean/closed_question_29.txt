@@ -1,0 +1,22 @@
+questão 29
+expressões regulares constituem formas sucintas
+de descrever linguagens regulares. uma de suas
+aplicações é descrever padrões a serem procurados
+em um texto. as expressões regulares r1, r2, r3 e
+r4 a seguir utilizam a seguinte convenção: o fecho de
+kleene é denotado por * e a união é denotada pelo
+símbolo |.
+
+e r1=a*ba*ba*ba*
+
+e r2=a*(alb)a(a|b)*
+
+e r3=a*ab*a(alb)
+
+e r4=(alb)*
+em relação às linguagens definidas pelas expressões
+regulares apresentadas, conclui-se que a cadeia abbb
+está contida apenas nas linguagens definidas por
+o r2 e r4.
+o r2 e r3.
+o r2,r3 e r4.

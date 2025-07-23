@@ -1,0 +1,34 @@
+questão21
+um microcontrolador controla o dispositivo
+em que ele se encontra embutido através da
+sua interface de programação de aplicativos
+(api). essencialmente, essa interface consiste
+em um conjunto de registradores de dados, de
+controle e de estado. em um microcontrolador
+hipotético, os bits5,4 e3 do registrador de
+controle modoevento de16 bits controlam
+a configuração do tipo de evento que gera um
+gatilho em um pino específico, conforme a
+seguinte codificação binária:000 = desabilitado;
+001 = sensível a borda de subida;010 = sensível
+a borda de descida;011 = sensível a ambas as
+bordas;100 = sensível a nível alto;101 = sensível
+a nível baixo. o bit o, à extrema direita, é o menos
+significativo, e o bit15, o mais significativo.
+
+considerando-se essa situação e sabendo-se
+que, em linguagem c, os símbolos |, & e -
+correspondem aos operadores lógicos bit a bit
+or, and e not, respectivamente, qual instrução
+em c deve ser utilizada para configurar o pino, de
+forma que ele fique sensível a ambas as bordas?
+
+o modoevento =0x0018
+o modoevento |=0x0018
+o modoevento &= -0x0018
+
+o modoevento = (modoevento |0x0018)
+& -0x0038
+
+e modoevento = (modoevento & -0x0038)
+|0x0018

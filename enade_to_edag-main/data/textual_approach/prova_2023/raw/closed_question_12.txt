@@ -1,0 +1,56 @@
+questão 12
+Uma relação R em um conjunto S é uma relação de equivalência se ela satisfizer todas as propriedades 
+a seguir:
+1. Reflexividade. Para todo a Î S, a R a;
+2. Simetria. Para todos a, b Î S, a R b Û b R a; 
+3. Transitividade. Para todos a, b, c Î S, se a R b e b R c, então, a R c.
+Uma partição de um conjunto S é uma coleção de subconjuntos disjuntos não vazios, cuja união é igual 
+a S. Se R é uma relação de equivalência em um conjunto S e se x Î S, denota-se por [x] o conjunto de 
+todos os elementos relacionados a x em S e chama-se esse conjunto de classe de equivalência de x.
+GERSTING, J. L. Fundamentos matemáticos para a ciência da computação: um tratamento moderno de  
+matemática discreta. 5. ed. Rio de Janeiro: LTC, 2008 (adaptado).
+A partir dessas informações, considere que, em um cluster computacional, haja 10 computadores 
+com configurações de hardware diferentes. Os administradores desse cluster pretendem desenvolver 
+um algoritmo de escalonamento de tarefas que mantenha processos de uma mesma aplicação 
+sendo executados em máquinas semelhantes, mesmo com estruturas arquiteturais distintas. Assim,  
+os administradores fizeram uma tabela relacionando os computadores. Essa tabela foi montada considerando 
+pares de computadores. Dessa forma, dois computadores do cluster fazem parte de uma linha na tabela 
+se possuem alguma característica semelhante, ou seja, se apresentam algum tipo de relacionamento  
+(por exemplo, quantidade de memória ou de núcleos de processamento semelhantes). Obviamente, 
+apesar de não estar evidente na tabela, um computador também tem relação consigo mesmo.
+Os computadores estão numerados de 1 até 10 e a tabela resultante pode ser vista a seguir.
+Computadores com características semelhantes
+1
+5
+2
+8
+5
+7
+7
+10
+2
+9
+3
+4
+10
+1
+5
+10
+7
+1
+9
+8
+Com base nesse cenário e no conceito de relações de equivalência, assinale a opção correta.
+A	 A relação descrita pela tabela é uma relação de equivalência.
+B	 A relação descrita pela tabela apresenta a propriedade de simetria, mas não a de transitividade.
+C	 A relação descrita pela tabela apresenta a propriedade de transitividade, mas não a de simetria.
+D	 O subconjunto de computadores representados pelos números 1, 3, 5, 7 e 10 forma uma classe  
+de equivalência.
+E	 O subconjunto de computadores representados pelos números 2, 3, 4, 8 e 9 forma uma classe  
+de equivalência.
+*R08202316*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
+
+Engenharia de Computação
+17

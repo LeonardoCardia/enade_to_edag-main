@@ -1,0 +1,32 @@
+questão 28
+Alguns sistemas com memória virtual utilizam uma técnica chamada de paginação. Nesses sistemas, 
+existe um conjunto de endereços de memória, denominados endereços virtuais, que são gerados durante 
+a execução dos programas, com o uso de indexação, de registradores-base, de registradores-segmento 
+ou de outras técnicas. Um endereço virtual é dividido em número de página virtual e deslocamento. 
+O número de página virtual é usado como índice dentro da tabela de páginas para encontrar o  
+quadro correspondente. O endereço físico de memória é a concatenação entre o endereço do quadro 
+com o deslocamento do endereço virtual.
+Um mecanismo denominado TLB (do inglês, translation lookaside buffer), tipicamente implementado 
+em hardware, fornece auxílio durante a atividade de mapeamento de endereços virtuais para 
+endereços físicos sem passar pela tabela de página. A função do TLB é agilizar o processo de tradução 
+de endereços lógicos para físicos.
+TANENBAUM, A. S. Sistemas Operacionais Modernos. 3. ed. São Paulo: Pearson Prentice Hall, 2009 (adaptado).
+Com relação à memória paginada, avalie as asserções a seguir e a relação proposta entre elas.
+I.	 Quando um processo é escalonado para execução, tanto a MMU (Memory Management Unit) 
+quanto o TLB são reconfigurados para o novo processo.
+PORQUE
+II.	 Para livrar-se de resíduos do processo executado anteriormente, a tabela de páginas do novo 
+processo deve tornar-se a tabela atual, o que, em geral, é feito por meio da cópia da tabela ou de 
+um ponteiro para ela em registradores em hardware.
+A respeito dessas asserções, assinale a opção correta.
+A	 As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B	 As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C	 A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D	 A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E	 As asserções I e II são proposições falsas.
+*R08202331*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP
+
+32
+Engenharia de Computação

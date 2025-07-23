@@ -1,0 +1,15 @@
+questão 23
+Considere 
+o 
+autômato 
+de 
+estados 
+finitos 
+determinístico representado na figura a seguir.
+O autômato representado reconhece a seguinte 
+linguagem regular
+A {w ∈ {0,1}*| |w| é 4}.
+B {w ∈ {0,1}*| |w| é ímpar e termina com 1}.
+C {w ∈ {0,1}*| |w| é par e termina com 01}.
+D {w ∈ {0,1}*| |w| é ímpar e termina com 0}.
+E {w ∈ {0,1}*| |w| é par e termina com 11}.

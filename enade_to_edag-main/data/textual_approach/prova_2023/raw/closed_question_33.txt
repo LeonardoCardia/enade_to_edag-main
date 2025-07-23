@@ -1,0 +1,24 @@
+questão 33
+Considere que uma empresa planeje desenvolver um sistema de controle automático para manter, em um 
+ambiente industrial, a temperatura constante por meio de um controlador proporcional-integral-derivativo 
+(PID). O controlador PID pode ser implementado em qualquer linguagem que possua estruturas de dados 
+adequadas para a manutenção do histórico e da taxa de mudança do sinal de erro.
+Considerando essa situação, avalie as afirmações a seguir.
+I.	 A implementação do componente Integral requer a soma de todos os erros acumulados desde o 
+início da operação do sistema, o que torna necessário o uso de uma estrutura de dados do tipo fila.
+II.	 A parte Proporcional do controlador PID é implementada ao ajustar, proporcionalmente,  
+a variável de controle à diferença entre a temperatura desejada e a temperatura atual.
+III.	 Uma pilha é adequada para o componente Derivativo, pois a taxa de mudança do erro é 
+calculada apenas com a amostra mais recente e a anterior do sinal de erro.
+É correto o que se afirma em
+A	 I, apenas.
+B	 II, apenas.
+C	 I e III, apenas.
+D	 II e III, apenas.
+E	 I, II e III.
+*R08202335*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP
+
+36
+Engenharia de Computação

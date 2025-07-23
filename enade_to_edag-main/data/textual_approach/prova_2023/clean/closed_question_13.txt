@@ -1,0 +1,21 @@
+questão13
+Uma forma sistemática de analisar circuitos elétricos de qualquer tamanho, visando à simulação 
+em computadores, consiste em representá-los por meio de grafos. Essa representação implica a 
+substituição dos elementos do ramo do circuito por uma conexão orientada (arco) e de nós do circuito 
+por vértices, resultando em um grafo orientado. A orientação dos arcos coincide com a orientação dos 
+sentidos de referência associados de tensão e corrente, adotados pela convenção passiva.
+Grafos são ditos conexos se existir, ao menos, um caminho entre quaisquer dois nós. Corte refere-se 
+a um conjunto de arcos que, se removido, divide o grafo (tornando-o desconexo). A lei de Kirchoff 
+das correntes, usando a nomenclatura de grafos, pode ser enunciada como “para qualquer rede de 
+parâmetros concentrados e para qualquer de seus cortes, a soma algébrica de todas as correntes 
+através dos arcos do corte é zero.”
+Disponível em: http://www.peb.ufrj.br/. Acesso em:16 jun.2023 (adaptado).
+A figura a seguir representa um circuito elétrico e o seu grafo equivalente.
+Após aplicar a lei de Kirchoff das correntes para os cortes X = {1,4,5}, Y = {1,2,3,5} e Z = {1,4,3,6}, 
+assinale a opção que apresenta equações válidas para a soma algébrica das correntes em dois 
+desses cortes.
+A I1 + I4 - I5 =0 e I1 + I2 + I3 - I5 =0
+B I1 + I4 + I5 =0 e I1 + I2 + I3 + I5 =0
+C I1 + I4 + I5 =0 e I1 + I3 + I4 - I6 =0
+D I1 + I2 - I3 - I5 =0 e I1 + I3 + I4 - I6 =0
+E I1 + I2 - I3 - I5 =0 e I1 - I3 + I4 - I6 =0

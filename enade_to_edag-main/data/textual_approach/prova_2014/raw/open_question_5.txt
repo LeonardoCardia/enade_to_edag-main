@@ -1,0 +1,52 @@
+questão discursiva 5
+um processo monitora três parâmetros para controle de qualidade: a, b, c. cada parâmetro possui um
+valor na decisão final da qualidade. a existência do parâmetro a pesa 30% na decisão final, enquanto os
+parâmetros be c pesam 30% e 40%, respectivamente. o grau de aprovação do processo é dado pela soma
+dos percentuais desses três parâmetros. o produto gerado pelo processo é considerado aprovado, caso o
+grau de qualidade seja superior ou igual a 60%, e reprovado, se o grau de qualidade for inferior ou igual a
+30%. caso o grau de qualidade esteja entre 30% e 60%, a decisão de aprovação ou reprovação é indiferente.
+por exemplo, se um produto apresentar os parâmetros a e b, terá grau de qualidade de 30%+30% = 60%,
+levando à sua aprovação.
+
+com base na situação descrita, projete um circuito lógico com o menor número possível de portas lógicas,
+para determinar a aprovação ou não do produto de acordo com a presença de seus parâmetros. as entradas
+do circuito serão os sinais a, b, c, e a saída será um sinal z. para atingir esse objetivo, faça o que se pede nos
+itens a seguir.
+
+a) monte uma tabela verdade do sistema com a formação abc. (valor: 4,0 pontos)
+
+b) desenhe o circuito final otimizado utilizando portas lógicas. (valor: 6,0 pontos)
+
+rascunho
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+2
+
+3
+10
+11
+12
+
+ 
+
+11
+engenharia de computação uu]
+
+ 
+
+201411
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

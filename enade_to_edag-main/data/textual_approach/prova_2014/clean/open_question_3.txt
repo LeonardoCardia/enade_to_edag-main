@@ -1,0 +1,20 @@
+questão discursiva3
+
+um grafo orientado com n vértices pode ser armazenado na seguinte matriz de adjacência: para cada i, j, com
+1 ≤ i, j ≤ n, m[i][j] = 1, se a aresta orientada (i, j) pertence ao conjunto de arestas do grafo; caso contrário,
+m[i][j] = 0.
+
+com base nessas informações, faça o que se pede nos itens a seguir.
+
+a) escreva um algoritmo que receba como entrada uma matriz de adjacência de um grafo orientado e produza
+a matriz de adjacência do grafo com as arestas reversas. o grafo representado pela matriz resultante
+deverá conter a aresta (i, j) se, e somente se, a aresta (j, i) pertence ao grafo representado pela matriz de
+entrada. (valor: 5,0 pontos)
+
+b) escreva um algoritmo que receba como entrada uma matriz de adjacência de um grafo orientado e
+imprima todos os ciclos orientados de tamanho 3 desse grafo. para isso, considere que o ciclo orientado
+(1,2,3) é o mesmo que (2,3,1), porém o ciclo orientado (1,2,3) é diferente do ciclo orientado (3,2,1), de
+forma que ambos devem ser impressos, caso pertençam ao grafo. (valor: 5,0 pontos)
+
+observação: qualquer notação em português estruturado, de forma imperativa ou orientada a objetos
+pode ser utilizada, assim como em uma linguagem de alto nível, como pascal, c ou java.

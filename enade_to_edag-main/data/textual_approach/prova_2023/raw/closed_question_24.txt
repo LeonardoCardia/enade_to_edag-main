@@ -1,0 +1,42 @@
+questão 24
+Um determinado sistema embarcado possui uma porta paralela de 8 bits, na qual cada pino pode ser 
+configurado individualmente como interface de entrada ou de saída. A direção de cada pino da porta 
+é definida pelo bit correspondente do registrador de direção de 8 bits PORT_DIR da seguinte forma:  
+valor 0 para configuração como entrada e valor 1 para configuração como saída.
+Os bits de entrada da porta são armazenados no registrador PORT_IN e os bits de saída da porta são 
+armazenados no registrador PORT_OUT, ambos de 8 bits. Os pinos que correspondem ao nibble 
+(conjunto de 4 bits) menos significativo da porta de I/O são conectados aos seguintes dispositivos 
+externos: alarme (SPK1), chave 2 (CH2), LED (LED1) e chave 1 (CH1), conforme a figura a seguir.
+Considere que uma tensão VDD na porta corresponda ao valor lógico 1 e que uma tensão próxima a 0 V 
+corresponda ao valor lógico 0.
+Com base nas informações apresentadas e no esquema da figura, avalie as afirmações a seguir.
+I.	 O nibble menos significativo do registrador PORT_DIR deverá ser carregado com o valor 9 (decimal) 
+pelo software do sistema para configuração adequada da porta de I/O.
+II.	 Quando ambas as chaves (1 e 2) estiverem fechadas simultaneamente, o registrador PORT_IN 
+possuirá o valor binário X1X0 no nibble menos significativo (X significa irrelevante).
+III.	 Para acionar o alarme e o LED, simultaneamente, o registrador PORT_OUT deverá ser carregado 
+com o valor binário 1X0X no nibble menos significativo (X significa irrelevante).
+É correto o que se afirma em
+A	 I, apenas.
+B	 II, apenas.
+C	 I e III, apenas.
+D	 II e III, apenas.
+E	 I, II e III.
+SPK1
+VDD
+VDD
+VDD
+CH2
+CH1
+P3
+Pinos 3, 2, 1 e 0 da Porta de I/O
+P2
+P1
+P0
+LED1
+*R08202327*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP
+
+28
+Engenharia de Computação

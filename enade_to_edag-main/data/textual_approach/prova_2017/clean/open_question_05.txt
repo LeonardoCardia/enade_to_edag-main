@@ -1,0 +1,17 @@
+questão discursiva05
+a gerência de memória é a parte do sistema operacional que tem por finalidade gerir os recursos de
+memória e colocá-los à disposição dos usuários da maneira mais eficiente possível. uma técnica de
+alocação de memória amplamente utilizada é a alocação particionada dinâmica, em que cada programa
+utiliza o espaço de que necessita, passando a ser este espaço a sua partição.
+
+considere um sistema que, em um dado momento, possua, em sua memória principal, áreas livres com
+os seguintes tamanhos: 10 kb, 4 kb, 20 kb, 19 kb, 27 kb, 9 kb, 12 kb, 13 kb e 15 kb. considere, ainda,
+que um programa de 12 kb será carregado na memória desse sistema. com base nesse contexto, faça o
+que se pede nos itens a seguir.
+
+a) indique em qual partição do sistema esse programa seria alocado, no caso do uso de cada uma das
+seguintes estratégias: first-fit, best-fit e worst-fit. justifique sua resposta.
+
+b) indique, dentre as estratégias first-fit, best-fit e worst-fit, a que conduz à menor fragmentação da
+memória no contexto apresentado. em seguida, descreva uma situação em que a estratégia indicada
+não é a melhor opção para minimizar problemas de fragmentação da memória.

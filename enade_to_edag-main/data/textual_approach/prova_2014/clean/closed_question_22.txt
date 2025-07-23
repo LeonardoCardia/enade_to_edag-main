@@ -1,0 +1,48 @@
+questão 22
+dois conhecidos problemas de pesquisa operacional
+possuem uma ampla gama de aplicações em
+comunicação, transporte e planejamento: o
+problema do carteiro chinês (pcc), e o problema
+do caixeiro viajante (pcv). o primeiro consiste em
+minimizar o esforço de um carteiro que precisa
+percorrer todas as ruas de uma cidade. o segundo
+consiste em minimizar o deslocamento do vendedor
+que precisa visitar todas as cidades interconectadas
+de uma dada região, retornando à cidade de origem.
+esses problemas têm sido modelados com teoria
+dos grafos, de onde se destacam dois conceitos
+relacionados: circuito euleriano e ciclo hamiltoniano.
+
+umatrilha é uma sequência de arestas adjacentes em
+que não há repetição de arestas, e seu comprimento
+é a quantidade de arestas. a trilha é dita fechada se
+inicia e finaliza no mesmo vértice. assim, um grafo
+com m arestas é euleriano se nele existe uma trilha
+fechada de comprimento m (trilha euleriana). um
+ciclo hamiltoniano é uma trilha fechada que passa
+sem repetir por todos os vértices.
+
+com base nos conceitos acima, avalie as afirmações
+a seguir.
+
+i. se o grafo das cidades e suas interconexões
+for euleriano, então o pcv pode ser resolvido
+de uma forma tal que o caixeiro não terá que
+fazer visitas repetidas.
+
+ii. se todas as cidades se conectam com todas
+as outras, então a solução do pcv é um ciclo
+hamiltoniano correspondente ao menor
+deslocamento.
+
+iii. se o grafo for euleriano e possuir um ciclo
+hamiltoniano, então o pcc e o pcv darão
+como resultado a mesma trilha.
+
+é correto o que se afirma em 
+
+ii, apenas.
+iii, apenas.
+i, apenas.
+i e iii, apenas.
+i e ii.

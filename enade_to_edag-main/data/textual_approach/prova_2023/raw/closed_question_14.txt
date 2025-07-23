@@ -1,0 +1,30 @@
+questão 14
+Uma lista pode ser dividida em duas partes: o primeiro elemento (a cabeça da lista) e os demais 
+elementos (sua cauda). Por exemplo, em uma lista de inteiros [1, 2, 3, 4], a cabeça dessa 
+lista é o valor inteiro 1, enquanto sua cauda é a lista de inteiros [2, 3, 4]. Uma lista vazia é 
+representada por [].
+O código a seguir define duas funções descritas em uma linguagem de programação funcional que 
+manipulam listas de inteiros. A função enade recebe uma lista de inteiros e produz uma nova lista de 
+inteiros. A função auxiliar é chamada pela função enade e possui dois parâmetros: um número 
+inteiro e uma lista de inteiros. Essa função produz uma lista de inteiros.
+enade :: [Int] -> [Int] 
+enade [] = [] 
+enade (cabeca:cauda) = auxiliar cabeca (enade cauda)
+auxiliar :: Int -> [Int] -> [Int] 
+auxiliar x [] = [x] 
+auxiliar x (cabeca:cauda)
+   | (x `mod` 2 == 0) = x:cabeca:cauda
+   | otherwise = cabeca:auxiliar x cauda
+Considerando o código apresentado, é correto afirmar que se a função enade for executada recebendo 
+como parâmetro de entrada a lista [1, 2, 3, 4, 5, 6, 7, 8], o resultado será
+A	 [].
+B	 [2, 4, 6, 8].
+C	 [1, 2, 3, 4, 5, 6, 7, 8].
+D	 [2, 4, 6, 8, 1, 3, 5, 7].
+E	 [2, 4, 6, 8, 7, 5, 3, 1].
+*R08202318*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
+
+Engenharia de Computação
+19

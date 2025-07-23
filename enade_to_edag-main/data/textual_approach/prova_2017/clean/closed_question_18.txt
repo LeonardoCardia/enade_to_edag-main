@@ -1,0 +1,37 @@
+questão18
+o ensaio de flexão é utilizado em materiais
+frágeis ou de alta dureza, tais como cerâmicas
+estruturais ou aços-ferramenta. em uma de suas
+modalidades mais comuns, o ensaio de flexão a
+3 pontos, é provocada uma flexão ao se aplicar
+o carregamento em 3 pontos, o que causa uma
+tensão de tração surgida no ponto central e
+inferior da amostra, onde a fratura do material
+terá início.
+
+assumindo-se um comportamento de tensão-
+deformação linear, a tensão de flexão do material
+pode ser obtida por meio da fórmula:
+
+= ,
+em que fé a carga, d é a distância entre os pontos
+de apoio, w é a largura do corpo de prova e hé a
+espessura do corpo de prova.
+
+considere dois corpos de prova a e b do mesmo
+compósito reforçado com fibras de vidro, cuja
+resistência à flexão é de 290 mpa. o corpo de prova
+a tem o triplo da largura e a metade da espessura
+do corpo de prova b e ambos são submetidos ao
+mesmo ensaio de flexão.
+
+nessa situação, qual porcentagem da força necessária
+para o rompimento do corpo de prova b deverá ser
+aplicada ao corpo de prova a para que este também
+se rompa? 
+
+o 50%
+o 75%
+o 100%
+o 125%
+o 200%

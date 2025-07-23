@@ -1,0 +1,54 @@
+questão 27
+
+o protótipo de tela apresentado a seguir foi desenvolvido para atender um requisito de cadastro de 
+classificados de jornal, via smartphone.
+
+classificados
+
+nome: textfield
+
+e-mail: textfield
+
+telefone: textfield
+
+anúncio textfield
+
+categoria: veículo
+
+preço: textfield
+
+concordo com os termos do serviço
+salvar cancelar
+
+com base nesse protótipo de tela, infere-se que o modelo lógico correto para um banco de dados relacional 
+que irá armazenar os dados cadastrados por esse sistema é representado por
+
+o classificado (cod, nome, email, telefone, anuncio, categoria, preco)
+
+o cliente (codcli, nome, email, telefone)
+
+anuncio (codanu, texto, codcategoria)
+codcategoria referencia categoria
+
+categoria (codcategoria, nome)
+
+o cliente (codcli, nome, email, telefone)
+anuncio (codanu, texto, codcategoria, aceitetermos)
+codcategoria referencia categoria
+
+categoria (codcategoria, nome)
+
+o cliente (codcli, nome, email, telefone)
+
+anuncio (codanu, texto, codcliente, aceitetermos)
+codcliente referencia cliente
+
+categoria (codcategoria, nome)
+
+o cliente (codcli, nome, email, telefone)
+
+anuncio (codanu, texto, codcategoria, codcli, aceitetermos)
+codcategoria referencia categoria
+codcli referencia cliente
+
+categoria (codcategoria, nome)

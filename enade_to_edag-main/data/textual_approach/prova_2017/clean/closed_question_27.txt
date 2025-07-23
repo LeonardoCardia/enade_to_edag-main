@@ -1,0 +1,39 @@
+questão 27
+um sistema monitora o deslocamento de um carro por meio do registro em um banco de dados, de
+segundo em segundo, das medidas de dois acelerômetros: um na direção longitudinal do movimento do
+carro, outro na direção transversal.
+
+o projeto desse sistema é decomposto em três subprojetos. o primeiro, denominado módulo1,
+formado por hardware e software, é embarcado no carro e dotado de sistema de comunicação com
+a internet por gprs. o segundo, módulo2, é um projeto de software aplicativo executado em
+plataforma android para tablet, smartphone ou celular, para exibição de relatórios para usuários.
+o terceiro subprojeto, módulo3, é formado por hardware e software e instalado em um servidor em
+nuvem com conexão dedicada permanente com a internet.
+
+o projeto tem as seguintes especificações:
+
+* o módulo1 comunica-se com o módulo3 para enviar as leituras obtidas. como o carro nem
+sempre está em área de cobertura de celular, é possível que uma comunicação possa enviar as
+leituras de até um dia inteiro;
+
+* o módulo2 comunica-se com o módulo3 para obter os dados exibidos no relatório;
+
+* os relatórios indicam os valores máximos de velocidade e aceleração e as respectivas posições do
+carro quando eles foram atingidos.
+
+a partir dessas informações, avalie as afirmações a seguir.
+I. o módulo1 deve ter capacidade de armazenamento de dados suficiente para um dia de leituras,
+a serem enviadas para o módulo3.
+
+II. todos os subprojetos têm interface de comunicação pela internet e a interface com o usuário é
+feita no módulo2.
+
+III. o melhor local para se executar o processamento dos dados para o relatório é o módulo1, que
+está sempre conectado e tem maior capacidade de processamento.
+
+IV. o melhor local para se instalar o banco de dados para as leituras é o módulo3, que dispõe de
+maior capacidade de armazenamento e conexão permanente com a internet.
+
+é correto apenas o que se afirma em 
+
+I e IV.

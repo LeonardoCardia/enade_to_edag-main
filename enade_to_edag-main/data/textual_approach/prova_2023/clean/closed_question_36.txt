@@ -1,0 +1,16 @@
+questão 36
+A análise de desempenho de sistemas computacionais é uma atividade crítica para identificar gargalos, 
+otimizar recursos e garantir a eficiência do hardware e do software utilizados.
+Nesse contexto, a respeito do impacto de desempenho gerado pelo número de threads e de núcleos de 
+processamento em hardware e em software, assinale a opção correta.
+A O desempenho do sistema aumenta de maneira linear em relação ao aumento do número de 
+threads e de núcleos de processamento.
+B O número de threads tem um impacto direto no desempenho do sistema, enquanto a influência do 
+número de núcleos de processamento é insignificante.
+C O desempenho do sistema é afetado positivamente pelo aumento do número de threads e de 
+núcleos de processamento até um certo limite dependente da aplicação.
+D O número de núcleos de processamento tem um impacto direto no desempenho do sistema, 
+independentemente do número de threads utilizado.
+E O número de threads e de núcleos de processamento não possui relação direta com o desempenho 
+do sistema, pois esse resultado é determinado, exclusivamente, por técnicas e por algoritmos 
+utilizados no software.

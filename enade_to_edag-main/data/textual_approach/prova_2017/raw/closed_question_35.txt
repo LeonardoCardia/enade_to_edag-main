@@ -1,0 +1,47 @@
+questão 35
+em um algoritmo de roteamento de estado de enlace, a topologia da rede e todos os custos de enlace são
+conhecidos. isso é alcançado fazendo-se cada nó transmitir pacotes de estado de enlace a todos os outros
+nós da rede, uma vez que cada um desses pacotes contém as identidades e os custos dos enlaces ligados
+a ele. o resultado dessa transmissão dos custos por difusão é que todos os nós dispõem de informações
+idênticas e completas da rede. cada nó pode, então, rodar o algoritmo de estado de enlace e calcular o
+mesmo conjunto de caminhos de menor custo para todos os outros nós.
+
+o algoritmo de dijkstra pode ser usado para calcular o caminho de menor custo entre um nó de origem e
+todos os outros nós da rede. durante sua execução, este algoritmo atualiza o vetor d, sendo d(v) o custo
+do caminho de menor custo entre o nó de origem e o nó v.
+
+kurose, j. f. redes de computadores e a internet: uma abordagem top-down.
+são paulo: pearson education do brasil, 2013 (adaptado).
+
+o grafo a seguir representa uma rede de roteadores. as arestas são rotuladas com os respectivos custos
+de cada ligação.
+
+ 
+
+após a execução do algoritmo de dijkstra pelo roteador de número 1, o vetor d retornou contendo os
+seguintes valores:
+
+1234 5 67
+» [eee eetete
+
+nesse cenário, quais são os custos das arestas à, b, €, d, e e f, respectivamente?
+
+012,3,2,4e1.
+012,1,2,1e4.
+02,1,1,4,2e1.
+02,1,3,1,2e1.
+0113,4,1e1.
+
+área livre
+
+ 
+
+34 engenharia de computação
+
+enade
+
+exame nacional de desempenho
+
+*r132 017 35%
+
+dos estudantes

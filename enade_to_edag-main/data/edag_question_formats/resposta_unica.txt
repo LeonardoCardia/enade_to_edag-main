@@ -1,0 +1,17 @@
+ENUNCIADO:
+<Texto auxiliar introdutório para a questão trazendo contexto através de uma aplicação da vida real. Se houver anexo gráfico fornecido pelo usuário, uma imagem será automaticamente colocada abaixo e você deve fazer referência ao conteúdo dela nesse texto auxiliar>
+
+<Enunciado da questão, que provoque a interpretação do aluno. As respostas serão dadas em cinco alternativas (abaixo) com apenas UMA correta>
+
+(A) <Alternativa A>
+(B) <Alternativa B>
+(C) <Alternativa C>
+(D) <Alternativa D>
+(E) <Alternativa E>
+
+JUSTIFICATIVA:
+(A) <Declaração se a alternativa A é correta ou incorreta seguida de uma explicação>  
+(B) <Declaração se a alternativa B é correta ou incorreta seguida de uma explicação>  
+(C) <Declaração se a alternativa C é correta ou incorreta seguida de uma explicação>  
+(D) <Declaração se a alternativa D é correta ou incorreta seguida de uma explicação>
+(E) <Declaração se a alternativa E é correta ou incorreta seguida de uma explicação>

@@ -1,0 +1,89 @@
+questão11
+a dbo (demanda bioquímica de oxigênio) de uma amostra de água é a quantidade de oxigênio necessária
+para oxidar a matéria orgânica por decomposição aeróbia. quando a amostra é guardada por5 dias em uma
+temperatura de incubação de20ºc, ela é referida como dbo5, que é normalmente utilizada como um dos
+parâmetros para verificação da qualidade da água.
+
+o seguinte quadro classifica um curso d'água em função da sua dbo5:
+
+ 
+5,20"
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+muito limpo até1
+limpo maior que1 até2
+razoável maior que2 até4
+ruim maior que4 até6
+péssimo maior que6
+
+ 
+
+a imagem abaixo mostra um trecho de um rio com5 seções (x, y, z, w e t), em que são coletadas amostras
+de água para a determinação de dbo5 em laboratório.
+
+ponto de
+lançamento de
+esgoto
+
+ponto de
+lançamento de
+esgoto,
+
+   
+   
+
+z
+
+ 
+ 
+
+ 
+
+ 
+
+o quadro abaixo apresenta os resultados, em diferentes unidades, das amostras colhidas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x0,4 g/mº
+y3,850 mg/l
+z2,500 mg/l
+w3,000 mg/l
+t0,01 kg/mº
+
+ 
+
+considerando que pode ocorrer autodepuração no rio, em qual seção dele a água não pode ser classificada,
+no mínimo, como “razoável”?
+ox
+oy.
+oz.
+ow.
+ot

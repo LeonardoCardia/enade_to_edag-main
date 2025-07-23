@@ -1,0 +1,68 @@
+questão 25
+o lugar das raízes, também chamado root locus, é importante procedimento para a análise de sistemas de
+controle, bem como para a síntese de compensadores para esses sistemas. por exemplo, deseja-se controlar,
+com um compensador série e realimentação negativa e unitária, um sistema sujeito a uma entrada degrau,
+cuja planta tem função de transferência
+
+g(g) = s(s+3)
+
+e cujo lugar das raízes tem a forma ilustrada na figura abaixo.
+
+lugar das raízes de g(s)
+304
+25
+20
+154
+
+107
+
+-5d
+
+eixo imaginário
+o
+1
+
+-10a
+
+-15a
+
+-20a
+
+-25a
+
+ 
+
+ 
+
+eixo real
+a partir do sistema acima, avalie as asserções a seguir e a relação proposta entre elas.
+il. um compensador proporcional sempre produz um sistema em malha fechada contendo termos de
+resposta oscilatória.
+
+porque
+il. as raízes do sistema em malha fechada são complexas para um compensador proporcional com ganho
+acima de 2,25.
+
+a respeito dessas asserções, assinale a opção correta.
+
+o as asserções le il são proposições verdadeiras, e a il é uma justificativa correta da |.
+
+o as asserções le il são proposições verdadeiras, mas a il não é uma justificativa correta da |.
+o a asserção | é uma proposição verdadeira, e a il é uma proposição falsa.
+
+o a asserção | é uma proposição falsa, e a il é uma proposição verdadeira.
+
+o as asserções le il são proposições falsas.
+
+ 
+
+22
+engenharia de computação
+
++ ra
+
+ 
+
+enade 2014
+
+exame nacional de desempenho dos estudantes

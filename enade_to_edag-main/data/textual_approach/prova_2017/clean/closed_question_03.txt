@@ -1,0 +1,49 @@
+questão03
+o sistema de tarifação de energia elétrica funciona com base em três bandeiras. na bandeira verde,
+as condições de geração de energia são favoráveis e a tarifa não sofre acréscimo. na bandeira amarela,
+a tarifa sofre acréscimo de r$0,020 para cada kwh consumido, e na bandeira vermelha, condição de
+maior custo de geração de energia, a tarifa sofre acréscimo de r$0,035 para cada kwh consumido. assim,
+para saber o quanto se gasta com o consumo de energia de cada aparelho, basta multiplicar o consumo
+em kwh do aparelho pela tarifa em questão.
+
+disponível em: <http://www.aneel.gov.br>. acesso em:17 jul.2017 (adaptado).
+
+na tabela a seguir, são apresentadas a potência e o tempo de uso diário de alguns aparelhos
+eletroeletrônicos usuais em residências.
+
+ 
+
+potência tempo de uso
+
+ 
+
+aparelho (kw) diário (h) kwh
+carregador de celular 0,010 24 0,240
+chuveiro 3,500 w 3,500 0,5 1,750
+chuveiro 5,500 w 5,500 0,5 2,250
+lâmpada de led 0,008 5 0,040
+lâmpada fluorescente 0,015 5 0,075
+lâmpada incandescente 0,060 5 0,300
+modem de internet em stand-by 0,005 24 0,120
+modem de internet em uso 0,012 8 0,096
+
+ 
+
+disponível em: <https://www.educandoseubolso.blog.br>. acesso em:17 jul.2017 (adaptado).
+considerando as informações do texto, os dados apresentados na tabela, uma tarifa de r$0,50 por kwh
+em bandeira verde e um mês de 30 dias, avalie as afirmações a seguir.
+|. em bandeira amarela, o valor mensal da tarifa de energia elétrica para um chuveiro de 3,500 w
+seria de r$1,05, e de r$1,65, para um chuveiro de 5,500 w.
+
+ii. deixar um carregador de celular e um modem de internet em stand-by conectados na rede de
+energia durante 24 horas representa um gasto mensal de r$5,40 na tarifa de energia elétrica em
+bandeira verde, e de r$5,78, em bandeira amarela.
+
+iii. em bandeira verde, o consumidor gastaria mensalmente r$3,90 a mais na tarifa de energia elétrica
+em relação a cada lâmpada incandescente usada no lugar de uma lâmpada led.
+é correto o que se afirma em
+i e ii, apenas.
+i e iii, apenas.
+ii e iii, apenas.
+i, ii e iii, apenas.
+i, ii e iii.

@@ -1,0 +1,25 @@
+questão 12
+De acordo com a lei de resfriamento de corpos, a 
+taxa de variação da temperatura de um corpo em 
+relação ao tempo é proporcional à diferença entre 
+a temperatura do corpo e a temperatura ambiente.
+
+Considere que T(t) é a temperatura do corpo em 
+função do tempo, a é a temperatura do ambiente, 
+t é o tempo e k é a constante de proporcionalidade.
+
+Nesse contexto, o modelo matemático 
+correspondente à lei de resfriamento de corpos 
+e à função resultante de sua resolução são dados, 
+respectivamente, por:
+
+dT/dt = -k(T - a); T(t) = (T(0) - a)e^(-kt) + a
+dT/dt = -k(T - a); T(t) = (T(0) - a)e^(-kt) + a 
+não é 
+dT/dt = k(T - a); T(t) = e^(kt) + a 
+ou 
+dT/dt = k(T - a); T(t) = e^(-kt) + a 
+nem 
+dT/dt = -k(T + a); T(t) = e^(-kt) + a 
+nem 
+dT/dt = k(T + a); T(t) = e^(kt) + a

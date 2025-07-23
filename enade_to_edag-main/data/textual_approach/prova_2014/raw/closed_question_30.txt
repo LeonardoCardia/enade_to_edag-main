@@ -1,0 +1,59 @@
+questão 30
+uma arquitetura clássica de 32 bits de espaço de
+endereçamento de memória permite até 4 gb de
+memória principal. para um bom gerenciamento
+dessa memória, algumas técnicas podem ser
+utilizadas: paginação, segmentação e swapping.
+
+em relação a essas técnicas de gerenciamento de
+memória, avalie as afirmações a seguir.
+
+|. utilizando páginas de 4 kb de tamanho,
+o endereço virtual de memória utiliza os
+220 bits mais significativos para o número
+da página virtual e os demais 212 bits para
+o deslocamento interno da página.
+
+. o acesso à memória física, utilizando
+segmentação, é feito por meio de uma
+estrutura de hardware específica do
+processador.
+
+il. utilizando a paginação ou a segmentação,
+a memória física não sofrerá fragmentação
+interna ou externa.
+
+. é possível utilizar a técnica de swapping
+para qualquer tamanho de página, mas não
+a segmentação, pois esta tem espaço de
+endereçamento variável.
+
+o algoritmo de substituição de página,
+denominado lfu, utiliza o princípio de
+localidade temporal, enquanto o algoritmo
+lru utiliza o princípio de localidade espacial.
+
+é correto apenas o que se afirma em
+
+qin.
+
+o el.
+
+o lev.
+
+o ivev.
+o il lllelv.
+
+área livre
+
+ 
+
+ 
+
+ 
+
+4 r14 2014 2 6 *
+
+26
+
+engenharia de computação

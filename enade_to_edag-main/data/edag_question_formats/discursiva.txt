@@ -1,0 +1,7 @@
+ENUNCIADO:
+<Texto auxiliar introdutório para a questão trazendo contexto através de uma aplicação da vida real. Se houver anexo gráfico fornecido pelo usuário, uma imagem será automaticamente colocada abaixo e você deve fazer referência ao conteúdo dela nesse texto auxiliar>
+
+<Enunciado da questão, que provoque a interpretação do aluno. A questão deve incluir todas as informações necessárias para sua resolução, fornecendo informações técnicas específicas quando necessário, e deve ser pensada para resposta dissertativa em até 15 linhas>
+
+JUSTIFICATIVA:
+<Resposta esperada para a questão com uma justificativa clara e objetiva>

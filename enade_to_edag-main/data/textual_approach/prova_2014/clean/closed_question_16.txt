@@ -1,0 +1,50 @@
+uma indústria de blocos cerâmicos pretende
+utilizar queima de biomassa resultante de resíduos
+de madeira, para gerar energia térmica para seus
+fornos, que, atualmente, utilizam gás natural. tal
+iniciativa poderá reduzir o consumo de combustível,
+porém será necessário um investimento no valor de
+20% do consumo/ano atual de combustível, visando
+à adaptação dos fornos. além disso, o transporte
+anual dos resíduos da fonte geradora até a indústria
+irá custar 5% do consumo/ano atual de combustível.
+estima-se que essa alteração promova uma
+economia, no consumo/ano atual de combustível,
+de 10% ao ano.
+
+a partir da situação descrita, avalie as afirmações a
+seguir.
+
+i. a partir do quinto ano, a indústria começaria
+a ter benefícios econômicos.
+
+ii. na proposta apresentada, a indústria
+substituiria o combustível atual por uma fonte
+de energia com menor produção e emissão de
+partículas devido ao processo de combustão
+(particulados).
+
+iii. na proposta apresentada, a indústria
+substituiria o combustível atual por uma fonte
+renovável de energia.
+
+iv. o valor do investimento supera os benefícios
+promovidos com a economia de combustível
+durante os 5 primeiros anos.
+
+é correto apenas o que se afirma em 
+
+i.
+
+ii.
+
+iii.
+
+iv.
+
+i, ii e iv.
+
+ 
+16 
+
+engenharia de computação

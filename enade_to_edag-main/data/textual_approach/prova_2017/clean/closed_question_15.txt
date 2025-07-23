@@ -1,0 +1,23 @@
+questão 15
+Suponha que determinado programa de computador 
+seja executado por meio de 13 etapas, com tempo 
+médio de 50 segundos ao todo e dispersão relativa 
+de 10% em torno da média.
+
+Considere que uma equipe de engenharia propõe 
+um novo algoritmo que reduz em 30% o tempo de 
+execução de todas as 13 etapas desse programa.
+
+Nesse contexto, avalie as afirmações a seguir, 
+a respeito do tempo de execução do novo 
+algoritmo.
+
+I. O tempo médio por etapa será de 
+32,5 segundos.
+
+II. O desvio-padrão permanecerá inalterado.
+
+III. A dispersão relativa em torno da média 
+permanecerá inalterada.
+
+É correto o que se afirma em

@@ -1,0 +1,42 @@
+questão 34
+o envelhecimento é um conjunto de alterações físicas e fisiológicas, como perda de memória, perda
+de coordenação e habilidades motoras finas, diminuição da capacidade auditiva, da sensibilidade tátil
+e da acuidade visual. levando em consideração os principais elementos de interface dos modelos de
+smartphones dominantes no mercado, como tela sensível ao toque, gavetas de aplicativos representados
+por ícones e realimentação auditiva, a usabilidade desses modelos pode dificultar a acessibilidade dos
+idosos ao ambiente hipermídia móvel proporcionado por eles.
+
+disponível em: <http://www.periodicos.puc-rio.br>. acesso em: 6 jul. 2017 (adaptado).
+
+considerando esse contexto, avalie as asserções a seguir e a relação proposta entre elas.
+
+il. o baixo nível de acessibilidade da população idosa aos smartphones revela a exclusão social na
+terceira idade.
+
+porque
+
+il. os tipos de possibilidades de interação, também conhecidos como affordance, providos pelos
+smartphones, têm um impacto negativo nos idosos em termos de usabilidade.
+
+a respeito dessas asserções, assinale a opção correta.
+
+o as asserções le il são proposições verdadeiras, e a il é uma justificativa correta da |.
+
+o as asserções le il são proposições verdadeiras, mas a il não é uma justificativa correta da |.
+o a asserção | é uma proposição verdadeira, e a il é uma proposição falsa.
+
+o a asserção | é uma proposição falsa, e a il é uma proposição verdadeira.
+
+o asasserções le il são proposições falsas.
+
+área livre
+
+ 
+
+engenharia de computação 33
+
+2017
+e enade
+
+exame nacional de desempenho
+dos estudantes

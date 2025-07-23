@@ -1,0 +1,57 @@
+questão 26
+estruturas de dados, tais como filas e pilhas, são utilizadas em diversas aplicações para automação
+industrial por meio de linguagens de programação textuais. o texto estruturado (st) é uma das opções
+de linguagem de programação definidas pela norma iec 61131-3. o trecho de código a seguir foi
+implementado nesse contexto.
+
+fdefine max 1000
+
+struct eventos (
+char ocorrencia [200];
+char datahora [50] ;
+:;
+struct eventos eve [max] ;
+int inicio = 0;
+int fim = 0;
+int processaevento (struct eventos *recuperado) f
+if (inicio == fim) (
+return - 1;
+3
+else í
+inicio++;
+copiaevento (recuperado, eve[linicio - 1]);
+
+return 0;
+
+)
+int insereevento (struct eventos *novo) f
+1f (fim == max) (
+return -1;
+)
+else í
+copiakvento (eve[fim], novo);
+fim++;
+return 0;
+
+)
+é correto afirmar que a estrutura de dados e a funcionalidade desse código tratam-se de
+
+uma fila que processa primeiro os eventos mais antigos.
+uma pilha que processa primeiro os eventos mais antigos.
+uma pilha que processa primeiro os eventos mais recentes.
+
+uma pilha que processa os eventos na ordem escolhida pelo operador.
+
+vovoo
+
+uma fila que processa os eventos de acordo com seu respectivo grau de prioridade.
+
+ 
+
+engenharia de computação 27
+
+2017
+e enade
+
+exame nacional de desempenho
+dos estudantes

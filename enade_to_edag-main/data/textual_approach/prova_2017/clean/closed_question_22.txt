@@ -1,0 +1,53 @@
+questão 22
+considere o código em c, a seguir, compilado em um sistema computacional de 32 bits, que
+exemplifica o uso do tipo de dados ponteiro.
+
+```
+#include <stdio.h>
+
+void main(void) {
+  int salario1, salario2;
+  int *ptr;
+  salario1 = 6750;
+  ptr = &salario1;
+  salario2 = *ptr + 1000;
+}
+```
+
+a partir das informações apresentadas, assinale a opção que apresenta a memória principal e seu
+
+conteúdo, após o programa ser executado.
+
+endereço dado | nome da variável 
+(byte) (byte)
+
+0x007b | 00 | 
+0x007a | 00 | 
+0x0079 | 00 | ptr
+0x0078 | 00 | 
+0x0077 | 00 | 
+0x0076 | 00 | 
+0x0075 | 00 | 
+0x0074 | 00 | 
+0x0073 | 00 | 
+0x0072 | 00 | 
+0x0071 | 00 | salario1 6750
+0x0070 | 00 | 
+
+ou 
+
+endereço dado | nome da variável 
+(byte) (byte)
+
+0x007b | 00 | 
+0x007a | 00 | 
+0x0079 | 00 | 
+0x0078 | 00 | 
+0x0077 | 00 | 
+0x0076 | 00 | 
+0x0075 | 00 | 
+0x0074 | 7750 | salario2 
+0x0073 | 00 | 
+0x0072 | 00 | 
+0x0071 | 6750 | salario1
+0x0070 | 00 |
