@@ -4,6 +4,7 @@ import time
 import glob
 import base64
 import ast
+from pathlib import Path
 
 from collections import Counter
 from PIL import Image
@@ -37,6 +38,8 @@ def encode_image_fileobj(file_obj):
 # Function to load dataframe's edag topics information (and save it in cache)
 @st.cache_data
 def load_edag_topics(path='data/enade_data.csv'):
+    base_dir = Path(__file__).resolve().parent
+    path = base_dir / "data" / "enade_data.csv"
     df = pd.read_csv(path, converters={'test_content_edag': ast.literal_eval})
     return {row['year']: row['test_content_edag'] for _, row in df.iterrows()}
 
