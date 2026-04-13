@@ -435,6 +435,16 @@ format_names = [os.path.basename(f) for f in format_files]
 display_formats = [os.path.splitext(name)[0].replace('_', ' ').title() for name in format_names]
 fmt_map = dict(zip(display_formats, format_names))
 
+
+from pathlib import Path
+
+base_dir = Path(__file__).resolve().parent
+formats_dir = base_dir / "data" / "edag_question_formats"
+
+st.write("Diretório:", formats_dir)
+st.write("Existe?", formats_dir.exists())
+st.write("Conteúdo:", list(formats_dir.glob("*")))
+
 if not display_formats:
     st.error("Nenhum formato foi carregado.")
     st.write("display_formats:", display_formats)
