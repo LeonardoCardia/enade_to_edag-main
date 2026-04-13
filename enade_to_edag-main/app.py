@@ -435,10 +435,33 @@ format_names = [os.path.basename(f) for f in format_files]
 display_formats = [os.path.splitext(name)[0].replace('_', ' ').title() for name in format_names]
 fmt_map = dict(zip(display_formats, format_names))
 
-chosen_fmt = fmt_col.selectbox('Formato da Nova Questão', display_formats, help='Seletor de formato da nova questão baseado nos direcionamentos de padrão do EDAG.')
-fmt_filter = fmt_map[chosen_fmt]
-difficulty = fmt_col.select_slider('Nível de Dificuldade', ['Fácil', 'Médio', 'Difícil'], help='Seletor do nível de dificuldade da nova questão a ser gerada. Por conta da complexidade e subjetividaded inata em determinar o nível de dificuldade de uma questão, atente-se ao fato de que esse slider não garante uma questão fácil ou difícil.')
+chosen_fmt = fmt_col.selectbox(
+    'Formato da Nova Questão',
+    display_formats,
+    help='Seletor de formato da nova questão baseado nos direcionamentos de padrão do EDAG.'
+)
 
+if not display_formats:
+    st.error("Nenhum formato de questão foi carregado.")
+    st.stop()
+
+if chosen_fmt is None:
+    st.warning("Selecione um formato de questão.")
+    st.stop()
+
+if chosen_fmt not in fmt_map:
+    st.error(f"O formato selecionado '{chosen_fmt}' não existe no mapeamento.")
+    st.write("display_formats:", display_formats)
+    st.write("fmt_map:", fmt_map)
+    st.stop()
+
+fmt_filter = fmt_map[chosen_fmt]
+
+difficulty = fmt_col.select_slider(
+    'Nível de Dificuldade',
+    ['Fácil', 'Médio', 'Difícil'],
+    help='Seletor do nível de dificuldade da nova questão a ser gerada. Por conta da complexidade e subjetividade inata em determinar o nível de dificuldade de uma questão, atente-se ao fato de que esse slider não garante uma questão fácil ou difícil.'
+)
 user_prompt = gen_col.text_area('Instruções Adicionais (opcional)', height=155, help='Área de texto para prompts adicionais e pedidos específicos que o usuário possar ter ao modelo quando da geração de uma nova questão.')
 
 uploaded_graphic = upload_col.file_uploader('Suporte Gráfico (opcional)', type=['png'], help='Opção de upload de imagem (em formato PNG) para que o modelo possa utilizar quando da geração de uma nova questão. Note que a imagem aqui fornecida será necessariamente adicionada à questão, não apenas utilizada como inspiração.')
