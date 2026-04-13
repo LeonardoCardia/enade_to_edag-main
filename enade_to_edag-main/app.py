@@ -435,6 +435,12 @@ format_names = [os.path.basename(f) for f in format_files]
 display_formats = [os.path.splitext(name)[0].replace('_', ' ').title() for name in format_names]
 fmt_map = dict(zip(display_formats, format_names))
 
+if not display_formats:
+    st.error("Nenhum formato foi carregado.")
+    st.write("display_formats:", display_formats)
+    st.write("format_names:", format_names)
+    st.stop()
+
 chosen_fmt = fmt_col.selectbox('Formato da Nova Questão', display_formats, help='Seletor de formato da nova questão baseado nos direcionamentos de padrão do EDAG.')
 fmt_filter = fmt_map[chosen_fmt]
 difficulty = fmt_col.select_slider('Nível de Dificuldade', ['Fácil', 'Médio', 'Difícil'], help='Seletor do nível de dificuldade da nova questão a ser gerada. Por conta da complexidade e subjetividaded inata em determinar o nível de dificuldade de uma questão, atente-se ao fato de que esse slider não garante uma questão fácil ou difícil.')
